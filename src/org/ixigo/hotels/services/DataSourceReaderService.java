@@ -44,6 +44,7 @@ public class DataSourceReaderService {
     	APIMap map = new APIMap();
     	map.setApiUrl(mapObj.get("API").toString());
     	map.setMapping((JSONObject) mapObj.get("mapping"));
+    	map.setName(mapObj.get("name").toString());
     	return map;
     }
 

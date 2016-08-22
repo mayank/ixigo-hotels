@@ -6,6 +6,15 @@ public class APIMap {
 
 	private String apiUrl;
 	private JSONObject mapping;
+	private String name;
+	
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
 
 	public String getApiUrl() {
 		return apiUrl;

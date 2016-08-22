@@ -18,21 +18,55 @@ import org.ixigo.hotels.models.Rating;
  */
 public class HotelGeneratorService {
     
-	public Hotel createHotelFromMap(HashMap<String, Object> hotelMap){
+	private double objectToDouble(Object obj){
+		double data = 0;
+		try{
+			if(obj != null){
+				String str = obj.toString();
+				if(str != ""){
+					data = Double.parseDouble(str);
+				}
+			}
+		}catch(NumberFormatException e){
+			
+		}
+		return data;
+	}
+	private long objectToLong(Object obj){
+		long data = 0;
+		try{
+			if(obj != null){
+				String str = obj.toString();
+				if(str != ""){
+					data = Long.parseLong(str);
+				}
+			}
+		}catch(NumberFormatException e){
+			
+		}
+		return data;
+	}
+	
+	public Hotel createHotelFromMap(HashMap<String, Object> hotelMap, String source){
+		
 		Hotel hotel = new Hotel();
 		hotel.setName((String)hotelMap.get("name"));
 		
 		Rating rating = new Rating();
-		rating.setAvg(Double.parseDouble(hotelMap.get("rating").toString()));
-		rating.setTotalUsers(Long.parseLong(hotelMap.get("users").toString()));
+		
+		rating.setAvg(objectToDouble(hotelMap.get("rating")));
+		rating.setTotalUsers(objectToLong(hotelMap.get("users")));
 		hotel.setRating(rating);
 		
 		Address address = new Address();
-		address.setLatitude(Double.parseDouble(hotelMap.get("latitude").toString()));
-		address.setLongitude(Double.parseDouble(hotelMap.get("longitude").toString()));
+		address.setLatitude(objectToDouble(hotelMap.get("latitude")));
+		address.setLongitude(objectToDouble(hotelMap.get("longitude")));
 		address.setTextAddress((String) hotelMap.get("place"));
 		hotel.setAddress(address);
 		
+		hotel.setSource(source);
+		
 		return hotel;
 	}
+
 }

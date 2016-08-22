@@ -1,5 +1,6 @@
 {
 	"data": [{
+		"name": "Make My Trip",
 		"API": "data/mmt.json",
 		"mapping": {
 			"results": {
@@ -36,6 +37,7 @@
 			}
 		}
 	},{
+		"name": "Go Ibibo"
 		"API": "data/ibibo.json",
 		"mapping": {
 			"results": {
@@ -66,31 +68,46 @@
 			}
 		}
 	},{
+		"name": "Expedia",
 		"API": "data/xpedia.json",
 		"mapping": {
 			"results": {
 				"source": "results",
 				"format": {
 					"name": {
-						"source": "hotelName"
+						"source": {
+							"retailHotelInfoModel": "hotelName"
+						}
 					},
 					"image": {
-						"source": "largeThumbnailURL"
+						"source": {
+							"retailHotelInfoModel": "largeThumbnailURL"
+						}
 					},
 					"rating": {
-						"source": "hotelStarRating"
+						"source": {
+							"retailHotelInfoModel": "hotelStarRating"
+						}
 					},
 					"users": {
-						"source": "reviewTotal"
+						"source": {
+							"retailHotelInfoModel": "reviewTotal"
+						}
 					},
 					"place": {
-						"source": "line1"
+						"source": {
+							"retailHotelInfoModel": "searchDestination"
+						}
 					},
 					"latitude": {
-						"source": "latitude"
+						"source": {
+							"retailHotelInfoModel": "latitude"
+						}
 					},
 					"longitude": {
-						"source": "longitude"
+						"source": {
+							"retailHotelInfoModel": "longitude"
+						}
 					}
 				}
 			}

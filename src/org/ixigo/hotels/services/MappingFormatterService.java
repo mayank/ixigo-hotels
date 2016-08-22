@@ -26,7 +26,6 @@ public class MappingFormatterService {
 			return data;
 		}
 		JSONObject dataJson = (JSONObject) data;
-		System.out.println(selector.toString()+" => "+dataJson.toJSONString());
 		if(selector instanceof String){
 			return dataJson.get(selector);
 		} else if( selector instanceof JSONObject ){
@@ -50,7 +49,7 @@ public class MappingFormatterService {
 		
 		Object[] keys = format.keySet().toArray();
 		
-		JSONArray hotelList = (JSONArray) fetchFromSource(data, results); //(JSONArray) data.get(source);
+		JSONArray hotelList = (JSONArray) fetchFromSource(data, results); 
 		ArrayList <HashMap <String, Object>> hotels = new ArrayList<HashMap <String, Object>>();
 		
 		for(Object hotelJSON: hotelList){
@@ -58,9 +57,8 @@ public class MappingFormatterService {
 			HashMap<String, Object> hotelMap = new HashMap<String, Object>();
 			
 			for(Object key: keys){
-					Object value = fetchFromSource(hotel, format.get(key)); //hotel.get(((JSONObject)format.get(key.toString())).get("source"));
+					Object value = fetchFromSource(hotel, format.get(key));
 					hotelMap.put(key.toString(), value);
-					System.out.println(key.toString()+" :: "+value.toString());
 			}
 			hotels.add(hotelMap);
 		}
