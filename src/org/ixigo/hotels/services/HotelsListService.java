@@ -46,7 +46,7 @@ public class HotelsListService {
 				if(hotel1.equals(hotel2) && !hotel1.getSource().equals(hotel2.getSource())){
 					System.out.print(hotel1.getName()+", "+hotel1.getSource());
 					System.out.print(" matches with ");
-					System.out.println(hotel1.getName()+", "+hotel2.getName());
+					System.out.println(hotel1.getName()+", "+hotel2.getSource());
 				}
 			}
 		}

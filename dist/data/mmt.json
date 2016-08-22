@@ -1,0 +1,2373 @@
+{
+	"hotelsList": [{
+		"id": "200806271140175900",
+		"idContext": "",
+		"name": "Jaypee Palace",
+		"hotelShortName": {
+			"value": "Jaypee Palace",
+			"truncated": false
+		},
+		"propertyName": "Hotel",
+		"htlTagLines": ["#3 rated hotel in Agra", "#3 rated hotel in Fatehabad Road", "#3 ranked by Family travelers ", "Rated 4.8 by Family travelers"],
+		"htlTags": [{
+			"tagType": "city",
+			"tagTypeCode": "HC200701081840032380",
+			"tagPriority": 0,
+			"rated": 3.0,
+			"tagText": "rated hotel in Agra",
+			"rank": "#3"
+		}, {
+			"tagType": "area",
+			"tagTypeCode": "Fatehabad Road",
+			"tagPriority": 1,
+			"rated": 3.0,
+			"tagText": "rated hotel in Fatehabad Road",
+			"rank": "#3"
+		}, {
+			"tagType": "traveller_rank",
+			"tagTypeCode": "family",
+			"tagPriority": 1,
+			"rated": 3.0,
+			"tagText": "ranked by Family travelers ",
+			"rank": "#3"
+		}, {
+			"tagType": "traveller_rating",
+			"tagTypeCode": "family",
+			"tagPriority": 1,
+			"rated": 4.8,
+			"tagText": "Rated 4.8 by Family travelers"
+		}],
+		"promoted": false,
+		"couponAutoApply": true,
+		"mtkey": "dRQ%2FjPNanvcwUlFZuSkGvHT%2FT%2FWpyHoL8orPAQxXHYjnA%2BXE1SKCnCBDYQUQcDQrizbKEvkXS%2F%2BerrjbZpOs%2FHVRI4SRBD6rctoPBsc5R4fNI9u%2FLBLnzHiSIb2eDA94PNyYkUujRxg6e%2B6OtEXmTbVplngeOBm6o0fCEr6G9a04KX8J8c1k%2BmQKpk3mXzczZS9noZkyCjkqhWqYQTbYdhVsLHuCkl12aupJYunQU4V8ZhLx7JY7YtXuvi%2FfAuwP2ZXSRXQxNvBBji3XlbioYXoTU%2FBG5mZfIhJLkFhpU%2B5kcMj33lN4OacI9Yd1fIDwuVa6EluiQUNrVTS0DSVsawxS0UegIKj%2Fepysmb3PyTeQyv2U2JEcDiD9RMNay3IkFQpDyt9Y7waGNM%2F5d%2Bwn%2BTbz8CvgRrSjmuffw1vS2MU%3D",
+		"isAbsorptionApplied": false,
+		"islmdPresent": false,
+		"mainImgUrl": "//imghtlak.mmtcdn.com/mmtimgs/images/upload/JaypeePalace_1459401734788_Listing.jpg",
+		"htlAvgRating": 4.7,
+		"userReviewsCount": 202,
+		"taUserRating": 4.0,
+		"taReviewCount": "1717",
+		"featured": "N",
+		"isFastSelling": false,
+		"starRating": {
+			"name": "Five",
+			"value": 5
+		},
+		"address": {
+			"area": ["Fatehabad Road", "Taj Ganj", "East Agra"],
+			"city": "Agra",
+			"line1": "Fatehabad Road, Agra",
+			"line2": "3.5 km from Taj Mahal",
+			"state": "Uttar Pradesh"
+		},
+		"geoLocation": {
+			"distanceMeter": [],
+			"latitude": "27.153841",
+			"longitude": "78.071198"
+		},
+		"punchline": "Near Taj Mahal (2.5 km) and Agra Fort (5 km), Jaypee Palace offers Wi-Fi, 4 restaurants, poolside barbeque, swimming pool, bar and business centre.",
+		"isFreeWifiAvail": true,
+		"hotelAmenitiesSet": [2, 3, 5, 6, 7],
+		"isPAHAvailable": false,
+		"displayFare": {
+			"availStatus": "B",
+			"slashedPrice": {
+				"value": 4500.0,
+				"maxFraction": 0,
+				"currencyCode": {
+					"id": "INR",
+					"value": ":Indian Rupee ",
+					"conversionRate": 1.0,
+					"currencySymbol": ""
+				},
+				"averagePriceNoTax": 4500.0,
+				"averagePriceWithTax": 4500.0,
+				"sellingPriceNoTax": 13500.0,
+				"sellingPriceWithTax": 13500.0
+			},
+			"lowestNetPayableAmountDTO": {
+				"value": 15336.0,
+				"maxFraction": 0,
+				"currencyCode": {
+					"id": "INR",
+					"value": ":Indian Rupee ",
+					"conversionRate": 1.0,
+					"currencySymbol": ""
+				},
+				"averagePriceNoTax": 15336.0
+			},
+			"cheapestPercentage": 0.0,
+			"cheapestPercentageRatePlanCode": "",
+			"tax": {
+				"value": 1836.0
+			},
+			"extraAdult": {
+				"value": 0.0
+			},
+			"fareText": "All Inclusive"
+		},
+		"promotions": {
+			"opaquePromotion": {
+				"isOpaqueAvailable": false,
+				"techShowOpaque": false
+			},
+			"promotionsCount": 0
+		},
+		"miscHotelMap": {
+			"hqhotelratingPercent": 77.4,
+			"image_avail": "Y",
+			"hotelurat": 4.7,
+			"hqhotelrating": 4.4,
+			"hoteluratPercent": 82.7,
+			"eyeCatchingText": "Very Good"
+		},
+		"shortHotelUSP": "This hotel offers 7 dining options including The Tea Lounge, shopping plaza, Tamaya Spa and aerobics room for fitness enthusiasts.",
+		"popularityScore": 0.0,
+		"freeCancellationText": "Free Cancellation",
+		"isSoldOut": false
+	}, {
+		"id": "201508271209461580",
+		"idContext": "",
+		"name": "Crystal Sarovar Premiere",
+		"hotelShortName": {
+			"value": "Crystal Sarovar Premiere",
+			"truncated": false
+		},
+		"propertyName": "Hotel",
+		"htlTagLines": ["#1 rated hotel in Taj Mahal", "#3 ranked by Couple travelers ", "Rated 4.6 by Family travelers", "Rated above 4 by 90% travelers"],
+		"htlTags": [{
+			"tagType": "area",
+			"tagTypeCode": "Taj Mahal",
+			"tagPriority": 1,
+			"rated": 1.0,
+			"tagText": "rated hotel in Taj Mahal",
+			"rank": "#1"
+		}, {
+			"tagType": "traveller_rank",
+			"tagTypeCode": "couple",
+			"tagPriority": 2,
+			"rated": 3.0,
+			"tagText": "ranked by Couple travelers ",
+			"rank": "#3"
+		}, {
+			"tagType": "traveller_rating",
+			"tagTypeCode": "family",
+			"tagPriority": 1,
+			"rated": 4.6,
+			"tagText": "Rated 4.6 by Family travelers"
+		}, {
+			"tagType": "reviewer_rating",
+			"tagTypeCode": "reviewer_rating",
+			"tagPriority": 0,
+			"rated": 4.7,
+			"tagText": "Rated above 4 by 90% travelers"
+		}],
+		"promoted": false,
+		"couponAutoApply": true,
+		"mtkey": "dRQ%2FjPNanvcwF9EyZcpnBWEIKeQdCzmwyp%2FoRpQigSs07utwlD8QUq16uZeFh2lEl2EAoWDLb%2FGNDHVYFv8AK2SF3fYhIoNt995lkbK8nggihMQARfUfjxFXT9ZAEI4pNQMs7HBMxIZep3AlUEzzjZjrtTSku5CNb2Tb3gKHRlv0a3QH8ORuxfXIKvnplCmKY%2F0FqmsH15kTq1pd4KrtQqmX5OuyYUT0nQg2DOUMIZUqaFpMZV7hMd1X4N36QSgBUA%2FpP8AFysWfuSmhr%2FPaLbk6dVdhuLIGOCYSivc1f0VFTtWWKqOUIg%2BGVZQKHgW90ihxS6WbC2xfZxqYCQt7ykyPUAm6Vi4b2vWN5p%2B42K6HniuC9zm%2BTU%2BIFIZGbTxJ1CyFQjyknHZgbbgRWId4BJHpPiJuwp%2FMxABeiFK44LA%3D",
+		"isAbsorptionApplied": false,
+		"islmdPresent": false,
+		"mainImgUrl": "//imghtlak.mmtcdn.com/mmtimgs/images/upload/CrystalSarovarPremiere_1469019673310_Listing.jpg",
+		"htlAvgRating": 4.7,
+		"userReviewsCount": 168,
+		"taUserRating": 4.0,
+		"taReviewCount": "181",
+		"featured": "N",
+		"isFastSelling": false,
+		"starRating": {
+			"name": "Five",
+			"value": 5
+		},
+		"address": {
+			"area": ["Taj Mahal", "Fatehabad Road", "Sadar Bazar"],
+			"city": "Agra",
+			"line1": "Fatehabad Road",
+			"line2": "Fatehabad Road",
+			"state": "Uttar Pradesh"
+		},
+		"geoLocation": {
+			"distanceMeter": [],
+			"latitude": "27.157401",
+			"longitude": "78.05046"
+		},
+		"punchline": "A 5 star property offers multi cuisine restaurant, spa, business center, conference hall, banquet facility, fitness center, pool kids zone",
+		"isFreeWifiAvail": true,
+		"hotelAmenitiesSet": [1, 2, 3, 5, 6, 7],
+		"isPAHAvailable": false,
+		"displayFare": {
+			"availStatus": "B",
+			"slashedPrice": {
+				"value": 3000.0,
+				"maxFraction": 0,
+				"currencyCode": {
+					"id": "INR",
+					"value": ":Indian Rupee ",
+					"conversionRate": 1.0,
+					"currencySymbol": ""
+				},
+				"averagePriceNoTax": 3000.0,
+				"averagePriceWithTax": 3000.0,
+				"sellingPriceNoTax": 9000.0,
+				"sellingPriceWithTax": 9000.0
+			},
+			"lowestNetPayableAmountDTO": {
+				"value": 10260.0,
+				"maxFraction": 0,
+				"currencyCode": {
+					"id": "INR",
+					"value": ":Indian Rupee ",
+					"conversionRate": 1.0,
+					"currencySymbol": ""
+				},
+				"averagePriceNoTax": 10260.0
+			},
+			"cheapestPercentage": 0.0,
+			"cheapestPercentageRatePlanCode": "",
+			"tax": {
+				"value": 1260.0
+			},
+			"extraAdult": {
+				"value": 0.0
+			},
+			"fareText": "All Inclusive"
+		},
+		"promotions": {
+			"opaquePromotion": {
+				"isOpaqueAvailable": false,
+				"techShowOpaque": false
+			},
+			"promotionsCount": 0
+		},
+		"miscHotelMap": {
+			"hqhotelratingPercent": 77.4,
+			"image_avail": "N",
+			"hotelurat": 4.7,
+			"hqhotelrating": 4.4,
+			"pahMessage": "No card detail required to secure booking",
+			"hoteluratPercent": 82.7,
+			"PAH_MODEL": "PAH1",
+			"eyeCatchingText": "Very Good"
+		},
+		"popularityScore": 1.0,
+		"freeCancellationText": "Free Cancellation",
+		"isSoldOut": false
+	}, {
+		"id": "200702161006503704",
+		"idContext": "",
+		"name": "Clark\u0027s Shiraz",
+		"hotelShortName": {
+			"value": "Clark\u0027s Shiraz",
+			"truncated": false
+		},
+		"propertyName": "Hotel",
+		"htlTagLines": ["#2 rated hotel in Agra", "#2 rated hotel in Fatehabad Road", "#2 ranked by Family travelers ", "Rated 4.5 by Family travelers"],
+		"htlTags": [{
+			"tagType": "city",
+			"tagTypeCode": "HC200701081840032380",
+			"tagPriority": 0,
+			"rated": 2.0,
+			"tagText": "rated hotel in Agra",
+			"rank": "#2"
+		}, {
+			"tagType": "area",
+			"tagTypeCode": "Fatehabad Road",
+			"tagPriority": 1,
+			"rated": 2.0,
+			"tagText": "rated hotel in Fatehabad Road",
+			"rank": "#2"
+		}, {
+			"tagType": "traveller_rank",
+			"tagTypeCode": "family",
+			"tagPriority": 1,
+			"rated": 2.0,
+			"tagText": "ranked by Family travelers ",
+			"rank": "#2"
+		}, {
+			"tagType": "traveller_rating",
+			"tagTypeCode": "family",
+			"tagPriority": 1,
+			"rated": 4.5,
+			"tagText": "Rated 4.5 by Family travelers"
+		}],
+		"promoted": false,
+		"couponAutoApply": true,
+		"mtkey": "dRQ%2FjPNanvehAos73YOswa92%2FBOI%2FGw%2B9hmkcNRKvUcNCnf%2B%2FYV5ueUhdzoTYGZCu6ffOrgzHttseHimFj%2F6axPcymvonHxMjqmVxgDwk2FURqpqiBcahlX5Zo60lu7Vf1Cxcqj0kTsGXdn15oQh48Pe3CSYqQZ%2BsGr%2FNSr3HZikOtVG2U6P25NF9qb1iHYtk2Q8%2B50z0qp3QgOkhu3k3J36QVXzFSUOBC2oXo8zOkIy9oKpRI3cTkknAxB0QvU8MKdKn1P5F89A4vtgAXt1axKsXIzJ%2BqCnapG095%2FuF3O8uh4cCxgPlVV%2BYhVSLTzcWQ2AtUJx1Ud3oTDYsiRU2JRJNaxt4FGs27o%2BK7hON1zDwccj5KtjedomuXgBmvuktkOSNRz7OBVjCShaJrSUb1x0qCbqacL9tfn14qc31UrQr7grt%2FYUKoZcVuGHLTmtuujzhYJIcq9fimYA8VngJw%3D%3D",
+		"isAbsorptionApplied": false,
+		"islmdPresent": false,
+		"mainImgUrl": "//imghtlak.mmtcdn.com/mmtimgs/images/upload/ClarksShiraz_1467717270634_Listing.jpg",
+		"htlAvgRating": 4.5,
+		"userReviewsCount": 250,
+		"taUserRating": 4.0,
+		"taReviewCount": "1042",
+		"featured": "Y",
+		"isFastSelling": false,
+		"starRating": {
+			"name": "Five",
+			"value": 5
+		},
+		"address": {
+			"area": ["Agra Cantonment Railway Station", "Fatehabad Road", "Taj Ganj", "Sadar Bazar"],
+			"city": "Agra",
+			"line1": "54 Taj Road, Agra",
+			"line2": "Approx 2 km from Taj Mahal",
+			"state": "Uttar Pradesh"
+		},
+		"geoLocation": {
+			"distanceMeter": [],
+			"latitude": "27.158851",
+			"longitude": "78.024826"
+		},
+		"punchline": "Clarks Shiraz is located 2.2 km away from Taj Mahal and offers facilities like conference/ banquet halls, health club, and rooftop restaurant.",
+		"isFreeWifiAvail": false,
+		"hotelAmenitiesSet": [2, 3, 5, 6, 7],
+		"isPAHAvailable": false,
+		"displayFare": {
+			"availStatus": "B",
+			"actualPrice": {
+				"value": 3000.0,
+				"maxFraction": 0,
+				"currencyCode": {
+					"id": "INR",
+					"value": ":Indian Rupee ",
+					"conversionRate": 1.0,
+					"currencySymbol": ""
+				},
+				"averagePriceNoTax": 3000.0,
+				"averagePriceWithTax": 3000.0,
+				"sellingPriceNoTax": 9000.0,
+				"sellingPriceWithTax": 9000.0
+			},
+			"slashedPrice": {
+				"value": 2700.0,
+				"maxFraction": 0,
+				"currencyCode": {
+					"id": "INR",
+					"value": ":Indian Rupee ",
+					"conversionRate": 1.0,
+					"currencySymbol": ""
+				},
+				"averagePriceNoTax": 2700.0,
+				"averagePriceWithTax": 2700.0,
+				"sellingPriceNoTax": 8100.0,
+				"sellingPriceWithTax": 8100.0
+			},
+			"lowestNetPayableAmountDTO": {
+				"value": 8963.0,
+				"maxFraction": 0,
+				"currencyCode": {
+					"id": "INR",
+					"value": ":Indian Rupee ",
+					"conversionRate": 1.0,
+					"currencySymbol": ""
+				},
+				"averagePriceNoTax": 8963.0
+			},
+			"cheapestPercentage": 0.0,
+			"cheapestPercentageRatePlanCode": "",
+			"tax": {
+				"value": 863.0
+			},
+			"extraAdult": {
+				"value": 0.0
+			},
+			"fareText": "All Inclusive"
+		},
+		"promotions": {
+			"opaquePromotion": {
+				"isOpaqueAvailable": false,
+				"techShowOpaque": false
+			},
+			"promotionsList": [{
+				"priceSlasher": true,
+				"value": "Book 15 days in advance or more \u0026 Get 10% Discount",
+				"promoLevel": "HOTEL_LEVEL"
+			}],
+			"promotionsCount": 1
+		},
+		"miscHotelMap": {
+			"hqhotelratingPercent": 73.9,
+			"image_avail": "N",
+			"hotelurat": 4.5,
+			"hqhotelrating": 4.2,
+			"pahMessage": "Reserve your booking without paying now",
+			"hoteluratPercent": 79.2,
+			"PAH_MODEL": "PAH2",
+			"eyeCatchingText": "Very Good"
+		},
+		"shortHotelUSP": "2 km from Taj Mahal, this hotel offers rooms with views of the monument, rooftop restaurant, indoor games and Ayurvedic massages.",
+		"popularityScore": 2.0,
+		"isSoldOut": false
+	}, {
+		"id": "201101271820022924",
+		"idContext": "",
+		"name": "Hotel Taj Resort",
+		"hotelShortName": {
+			"value": "Hotel Taj Resort",
+			"truncated": false
+		},
+		"propertyName": "Hotel",
+		"htlTagLines": ["Rated 4.3 by Family travelers", "Rated 4.7 on 5 for Location"],
+		"htlTags": [{
+			"tagType": "traveller_rating",
+			"tagTypeCode": "family",
+			"tagPriority": 1,
+			"rated": 4.3,
+			"tagText": "Rated 4.3 by Family travelers"
+		}, {
+			"tagType": "parameterWise_rating",
+			"tagTypeCode": "LOCATION",
+			"tagPriority": 1,
+			"rated": 4.7,
+			"tagText": "Rated 4.7 on 5 for Location"
+		}],
+		"promoted": false,
+		"couponAutoApply": true,
+		"mtkey": "dRQ%2FjPNanvewotXftku2mpy0Xtkt4cDZ250O9Pf4XgK39AWX%2FzAorIwCKdnfj6cQNQKEDBO%2BX0d8uSaBlw%2FQYrkxMSOwMwtEkqBZQ%2ByFjzeM%2BtOZuB1OtGvvQSdxmrmeVobZdyqsWS5spyZ505ABo%2BPnHJQuMD1vIGrSLdv1ZwhTZlXlhKygf4Y9cJ6IMHfcR4CBpOTj3vN38usTHPnamcqobAU5ijAR5%2BBU86ikyOFyJFaDg7Cumw4KRNFsYJ9b2qeNDR8jFrET1ggY7U%2BA3XBnt%2BtGbEK9pCBAo%2FfnnIgGzoNtyhMZRg%2BCE%2FkL5ClLhjaQFkpU3KlycaG2SIR4xxAvGf8FPgRFFBDCxxnsbs8UC8w8vWv%2FfXXiATb9xvXUalu8D7fPdOWNY3cortC0I%2FxEZPJhWFyKWplFt9ezc35SAjx1NWkjmnhBiONWtrCD",
+		"isAbsorptionApplied": false,
+		"islmdPresent": false,
+		"mainImgUrl": "//imghtlak.mmtcdn.com/mmtimgs/images/upload/HotelTajResort_Facade (3)_Listing.jpg",
+		"htlAvgRating": 4.4,
+		"userReviewsCount": 136,
+		"taUserRating": 4.0,
+		"taReviewCount": "1148",
+		"featured": "Y",
+		"isFastSelling": false,
+		"starRating": {
+			"name": "Three",
+			"value": 3
+		},
+		"address": {
+			"area": ["East Gate Road", "Fatehabad Road", "East Agra"],
+			"city": "Agra",
+			"line1": "538, NEAR SHILP GRAM,",
+			"line2": "0.5 km from Taj Mahal",
+			"state": "Uttar Pradesh"
+		},
+		"geoLocation": {
+			"distanceMeter": [],
+			"latitude": "27.170152",
+			"longitude": "78.047931"
+		},
+		"punchline": "Only 700 m from the Taj Mahal, Hotel Taj Resort has indoor \u0026 rooftop restaurant, bar, banquet hall, swimming pool and free Wi-Fi access.",
+		"isFreeWifiAvail": true,
+		"hotelAmenitiesSet": [3, 5, 6, 7],
+		"isPAHAvailable": false,
+		"displayFare": {
+			"availStatus": "B",
+			"slashedPrice": {
+				"value": 2029.0,
+				"maxFraction": 0,
+				"currencyCode": {
+					"id": "INR",
+					"value": ":Indian Rupee ",
+					"conversionRate": 1.0,
+					"currencySymbol": ""
+				},
+				"averagePriceNoTax": 2029.0,
+				"averagePriceWithTax": 2029.0,
+				"sellingPriceNoTax": 6087.0,
+				"sellingPriceWithTax": 6087.0
+			},
+			"lowestNetPayableAmountDTO": {
+				"value": 6933.0,
+				"maxFraction": 0,
+				"currencyCode": {
+					"id": "INR",
+					"value": ":Indian Rupee ",
+					"conversionRate": 1.0,
+					"currencySymbol": ""
+				},
+				"averagePriceNoTax": 6933.0
+			},
+			"cheapestPercentage": 0.0,
+			"cheapestPercentageRatePlanCode": "",
+			"tax": {
+				"value": 846.0
+			},
+			"extraAdult": {
+				"value": 0.0
+			},
+			"fareText": "All Inclusive"
+		},
+		"promotions": {
+			"opaquePromotion": {
+				"isOpaqueAvailable": false,
+				"techShowOpaque": false
+			},
+			"promotionsCount": 0
+		},
+		"miscHotelMap": {
+			"category": "NEAR TAJ",
+			"hqhotelratingPercent": 73.9,
+			"image_avail": "Y",
+			"hotelurat": 4.4,
+			"hqhotelrating": 4.2,
+			"hoteluratPercent": 77.4,
+			"eyeCatchingText": "Very Good"
+		},
+		"shortHotelUSP": "500 m from Taj Mahal, the hotel offers a rooftop restaurant with views of the monument, free railway station transfer, live shows.",
+		"popularityScore": 3.0,
+		"freeCancellationText": "Free Cancellation",
+		"isSoldOut": false
+	}, {
+		"id": "200803311126319814",
+		"idContext": "",
+		"name": "Hotel Mansingh Palace",
+		"hotelShortName": {
+			"value": "Hotel Mansingh Palace",
+			"truncated": false
+		},
+		"propertyName": "Hotel",
+		"htlTagLines": ["#3 ranked by Friends travelers ", "Rated 4.4 by Family travelers", "Rated 4.6 on 5 for Location"],
+		"htlTags": [{
+			"tagType": "traveller_rank",
+			"tagTypeCode": "friends",
+			"tagPriority": 5,
+			"rated": 3.0,
+			"tagText": "ranked by Friends travelers ",
+			"rank": "#3"
+		}, {
+			"tagType": "traveller_rating",
+			"tagTypeCode": "family",
+			"tagPriority": 1,
+			"rated": 4.4,
+			"tagText": "Rated 4.4 by Family travelers"
+		}, {
+			"tagType": "parameterWise_rating",
+			"tagTypeCode": "LOCATION",
+			"tagPriority": 1,
+			"rated": 4.6,
+			"tagText": "Rated 4.6 on 5 for Location"
+		}],
+		"promoted": false,
+		"couponAutoApply": true,
+		"mtkey": "dRQ%2FjPNanvcoUxiOyl2cMwjJnA568zY7EAn9j5MuDpq9FSSIzJoCcwdPJWX6wkvwteVIcsZLlfccHqcAz%2FcDV0wf5utHdwtj29GpuRE2XBJsBNMyP1FhKbrpcO8zfu2n4ekHQ9C8drBlJq4iniuHb9KdppD8xjo9gM51kb7hK%2B2nXwbQnkSXDz3jyX9RTGCVkqZ4roeVeIrWav8FJFgEvrcqWC032hOpepprvBUzR%2BnrG4h%2FJPOvRuOdaobUzwhtAJ%2BTIpPriXrE5dufzrJPLGTd91HYND4WMlNK1Rgp%2FALs4CZbOCit1SAyA095a3iubhr8ejLO6WrULBDSN%2BiXVpg%2FqqMEIpLIxxOZtTiI9flCanCu1pIWHnDytmp5BGDN9%2BJfqq1LPLicU7I5C8J2IXkmacZIDtASLZWT8d%2FRkrsEkzTZGVDTme3DaqWdL%2BJarVn7ueqnCmB8%2FOn%2FTpzqNQ%3D%3D",
+		"isAbsorptionApplied": false,
+		"islmdPresent": false,
+		"mainImgUrl": "//imghtlak.mmtcdn.com/mmtimgs/images/upload/HotelMansinghPalace_Exterior_View_Listing.jpg",
+		"htlAvgRating": 4.3,
+		"userReviewsCount": 199,
+		"taUserRating": 3.5,
+		"taReviewCount": "629",
+		"featured": "Y",
+		"isFastSelling": false,
+		"starRating": {
+			"name": "Five",
+			"value": 5
+		},
+		"address": {
+			"area": ["Taj Mahal", "Fatehabad Road", "East Agra"],
+			"city": "Agra",
+			"line1": "Fatehabad Road",
+			"line2": "",
+			"state": "Uttar Pradesh"
+		},
+		"geoLocation": {
+			"distanceMeter": [],
+			"latitude": "27.161165",
+			"longitude": "78.035319"
+		},
+		"punchline": "Hotel Mansingh Palace is approximately 3 km away from the Taj Mahal. The property has a restaurant, pool, health club and conference halls.",
+		"isFreeWifiAvail": true,
+		"hotelAmenitiesSet": [2, 3, 5, 6, 7],
+		"isPAHAvailable": false,
+		"displayFare": {
+			"availStatus": "B",
+			"actualPrice": {
+				"value": 3900.0,
+				"maxFraction": 0,
+				"currencyCode": {
+					"id": "INR",
+					"value": ":Indian Rupee ",
+					"conversionRate": 1.0,
+					"currencySymbol": ""
+				},
+				"averagePriceNoTax": 3900.0,
+				"averagePriceWithTax": 3900.0,
+				"sellingPriceNoTax": 11700.0,
+				"sellingPriceWithTax": 11700.0
+			},
+			"slashedPrice": {
+				"value": 3042.0,
+				"maxFraction": 0,
+				"currencyCode": {
+					"id": "INR",
+					"value": ":Indian Rupee ",
+					"conversionRate": 1.0,
+					"currencySymbol": ""
+				},
+				"averagePriceNoTax": 3042.0,
+				"averagePriceWithTax": 3042.0,
+				"sellingPriceNoTax": 9126.0,
+				"sellingPriceWithTax": 9126.0
+			},
+			"lowestNetPayableAmountDTO": {
+				"value": 10404.0,
+				"maxFraction": 0,
+				"currencyCode": {
+					"id": "INR",
+					"value": ":Indian Rupee ",
+					"conversionRate": 1.0,
+					"currencySymbol": ""
+				},
+				"averagePriceNoTax": 10404.0
+			},
+			"cheapestPercentage": 0.0,
+			"cheapestPercentageRatePlanCode": "",
+			"tax": {
+				"value": 1278.0
+			},
+			"extraAdult": {
+				"value": 0.0
+			},
+			"fareText": "All Inclusive"
+		},
+		"promotions": {
+			"opaquePromotion": {
+				"isOpaqueAvailable": false,
+				"techShowOpaque": false
+			},
+			"promotionsList": [{
+				"priceSlasher": true,
+				"value": "Book Now \u0026 Get 22% Discount",
+				"promoLevel": "HOTEL_LEVEL"
+			}],
+			"promotionsCount": 1
+		},
+		"miscHotelMap": {
+			"category": "NEAR TAJ",
+			"hqhotelratingPercent": 70.4,
+			"image_avail": "Y",
+			"hotelurat": 4.3,
+			"hqhotelrating": 4.0,
+			"pahMessage": "Reserve your booking without paying now",
+			"hoteluratPercent": 75.7,
+			"PAH_MODEL": "PAH2",
+			"eyeCatchingText": "Good"
+		},
+		"shortHotelUSP": "Close to Agra Fort, the hotel offers rooms with views of Taj Mahal, shopping arcade, beauty parlour, and live music shows.",
+		"popularityScore": 4.0,
+		"freeCancellationText": "Free Cancellation",
+		"isSoldOut": false
+	}, {
+		"id": "201412171129584703",
+		"idContext": "DERBY",
+		"name": "DoubleTree by Hilton Hotel Agra",
+		"hotelShortName": {
+			"value": "DoubleTree by Hilton Hotel ",
+			"truncated": true
+		},
+		"propertyName": "Hotel",
+		"htlTagLines": ["#3 rated hotel in Taj Mahal", "#2 ranked by Friends travelers ", "Rated 4.8 by Couple travelers", "Rated above 4 by 90% travelers"],
+		"htlTags": [{
+			"tagType": "area",
+			"tagTypeCode": "Taj Mahal",
+			"tagPriority": 1,
+			"rated": 3.0,
+			"tagText": "rated hotel in Taj Mahal",
+			"rank": "#3"
+		}, {
+			"tagType": "traveller_rank",
+			"tagTypeCode": "friends",
+			"tagPriority": 5,
+			"rated": 2.0,
+			"tagText": "ranked by Friends travelers ",
+			"rank": "#2"
+		}, {
+			"tagType": "traveller_rating",
+			"tagTypeCode": "couple",
+			"tagPriority": 1,
+			"rated": 4.8,
+			"tagText": "Rated 4.8 by Couple travelers"
+		}, {
+			"tagType": "reviewer_rating",
+			"tagTypeCode": "reviewer_rating",
+			"tagPriority": 0,
+			"rated": 4.7,
+			"tagText": "Rated above 4 by 90% travelers"
+		}],
+		"promoted": false,
+		"couponAutoApply": true,
+		"mtkey": "dRQ%2FjPNanvcaKP8eVj9p7etPQujseHQ%2BxgsNN9ZT4%2FLaSg4UuwRkSJUWwZUAtzvgpNCAaCB2Pexs%2F9Ut0nQEvN5VSfG8xvyubyxvJC8dOSbYdxGxvFvj9gdynqBuQypbvv4tN%2Fa9Xg%2FDO82bnvC8HHGpAG7F0IGPMlW2%2BN816GO0w0nyYSjLD7p3tNt1zBpiF81xln3jx9m1dVxUEPPqlfhAC%2B9Sfj5XnQgfWsvOw2MzwSEihDgHKFWMIdIWOXMvWZhv8XcE7XEnAmWePq69djMjwHLMoj%2BvY6jRdLPNqAGzA3e3LM8KAMmPRSx1DicWphq8A3c8dJIXoqbzJbe%2BnBK8Kovellk14qyDORapnWl8YU53nVlgtg6dy97xnbs6pLkfrdDvAg85JNH23KMzdGBsjulbltIU85EE6nfk10dC0rT1lhYVCLKmrnxrSEJA6OZeeLJitFUvgy3a7noYZvPJAe1zr%2FnMtLlszVdBFw%2BHctgV1YZtSUZESjP8TMn1",
+		"isAbsorptionApplied": false,
+		"islmdPresent": false,
+		"mainImgUrl": "//imghtlak.mmtcdn.com/mmtimgs/images/upload/DoubleTreebyHiltonHotelAgra_1469701842103_Listing.jpg",
+		"htlAvgRating": 4.7,
+		"userReviewsCount": 70,
+		"taUserRating": 4.5,
+		"taReviewCount": "255",
+		"featured": "Y",
+		"isFastSelling": false,
+		"starRating": {
+			"name": "Five",
+			"value": 5
+		},
+		"address": {
+			"area": ["Kheria Airport", "Taj Mahal", "Agra Cantonment Railway Station", "The Agra Fort", "Taj Ganj", "Taj Nagari", "Central Agra", "Sikandra"],
+			"city": "Agra",
+			"line1": "B/H - 1\u00262, Taj Nagri",
+			"line2": "Minutes from Taj Mahal, in the city centre",
+			"state": "Uttar Pradesh"
+		},
+		"geoLocation": {
+			"distanceMeter": [],
+			"latitude": "27.151745",
+			"longitude": "78.050544"
+		},
+		"punchline": "A plush property with a view of Taj mahal, offer Wi-Fi and internet facility with well equipped 24-hour business center.",
+		"isFreeWifiAvail": false,
+		"hotelAmenitiesSet": [2, 3, 5, 6, 7],
+		"isPAHAvailable": false,
+		"displayFare": {
+			"availStatus": "B",
+			"slashedPrice": {
+				"value": 3600.0,
+				"maxFraction": 0,
+				"currencyCode": {
+					"id": "INR",
+					"value": ":Indian Rupee ",
+					"conversionRate": 1.0,
+					"currencySymbol": ""
+				},
+				"averagePriceNoTax": 3600.0,
+				"averagePriceWithTax": 3600.0,
+				"sellingPriceNoTax": 10800.0,
+				"sellingPriceWithTax": 10800.0
+			},
+			"lowestNetPayableAmountDTO": {
+				"value": 13013.0,
+				"maxFraction": 0,
+				"currencyCode": {
+					"id": "INR",
+					"value": ":Indian Rupee ",
+					"conversionRate": 1.0,
+					"currencySymbol": ""
+				},
+				"averagePriceNoTax": 13013.0
+			},
+			"cheapestPercentage": 0.0,
+			"cheapestPercentageRatePlanCode": "",
+			"tax": {
+				"value": 2213.0
+			},
+			"extraAdult": {
+				"value": 0.0
+			},
+			"fareText": "All Inclusive"
+		},
+		"promotions": {
+			"opaquePromotion": {
+				"isOpaqueAvailable": false,
+				"techShowOpaque": false
+			},
+			"promotionsCount": 0
+		},
+		"miscHotelMap": {
+			"hqhotelratingPercent": 75.7,
+			"image_avail": "Y",
+			"hotelurat": 4.7,
+			"hqhotelrating": 4.3,
+			"hoteluratPercent": 82.7,
+			"eyeCatchingText": "Fabulous"
+		},
+		"popularityScore": 5.0,
+		"isSoldOut": false
+	}, {
+		"id": "201101251738505470",
+		"idContext": "",
+		"name": "Hotel Tara Palace",
+		"hotelShortName": {
+			"value": "Hotel Tara Palace",
+			"truncated": false
+		},
+		"propertyName": "Hotel",
+		"category": "VH",
+		"htlTagLines": ["Rated 4.3 by Couple travelers", "Rated 4.4 on 5 for Location"],
+		"htlTags": [{
+			"tagType": "traveller_rating",
+			"tagTypeCode": "couple",
+			"tagPriority": 1,
+			"rated": 4.3,
+			"tagText": "Rated 4.3 by Couple travelers"
+		}, {
+			"tagType": "parameterWise_rating",
+			"tagTypeCode": "LOCATION",
+			"tagPriority": 1,
+			"rated": 4.4,
+			"tagText": "Rated 4.4 on 5 for Location"
+		}],
+		"promoted": false,
+		"couponAutoApply": true,
+		"mtkey": "dRQ%2FjPNanvdTwot2FViSFmIBG2VOSlouKnlFOpjg0P5nslpxNkwPFgD0%2FZvwB%2BfZs5RjG40DxDCk7MNVMe1lxY3z%2FxCBNrPs4fY%2BtI1Y%2FdYlFdqkKhWwn%2BMyHZL2pfU7q2KL4U0pTWp9b%2FgWBHOgNGdBdVYXoYSzrLHKyDRd2g8ZwTNTGU0%2BJU85f2C%2FVOU%2F8TT6Za%2BupzwjCASMXblpklnuWXv4pT%2Fy5XDHJYd5qHkUjLnB3tj71P34jCHRL2OeZYNYza5plpC52kvrK1ytHUMV6%2B0x%2FWjDnzCTlVg%2F09ZLiAGlMuuTjsujf%2BxcEmHiazvhbWF6Mzmz4IMkoAvaBu%2F6u5oMkVQnE2GUd9avgbEdTp%2BfTCcvfcQ3m2rzvGTGumueRk6BfC3bl6J81DZ3%2F%2B7LBJhIZNEO%2Bv8094tueWMYVptbkoM9PEaoogsHFkbHyIy68lgRVMfh%2FYNZ2q3TzW4crGSwe1Wmzwvp%2FNyHjEM%3D",
+		"isAbsorptionApplied": false,
+		"islmdPresent": false,
+		"mainImgUrl": "//imghtlak.mmtcdn.com/mmtimgs/images/upload/HotelTaraPalace_1468049355509_Listing.jpg",
+		"htlAvgRating": 4.0,
+		"userReviewsCount": 122,
+		"taUserRating": 3.5,
+		"taReviewCount": "43",
+		"featured": "N",
+		"isFastSelling": false,
+		"starRating": {
+			"name": "Three",
+			"value": 3
+		},
+		"address": {
+			"area": ["East Gate Road", "Fatehabad Road", "East Agra", "Agra"],
+			"city": "Agra",
+			"line1": "Opp Jalma Hospital",
+			"line2": "Eastern Gate Tajmahal",
+			"state": "Uttar Pradesh"
+		},
+		"geoLocation": {
+			"distanceMeter": [],
+			"latitude": "27.167609",
+			"longitude": "78.051089"
+		},
+		"punchline": "Located nearby to the Taj Mahal, a 3 star property offers services like internet, taxi service, sightseeing tours, doctor on call facility.",
+		"isFreeWifiAvail": true,
+		"hotelAmenitiesSet": [3, 5, 6],
+		"isPAHAvailable": false,
+		"displayFare": {
+			"availStatus": "B",
+			"slashedPrice": {
+				"value": 1296.0,
+				"maxFraction": 0,
+				"currencyCode": {
+					"id": "INR",
+					"value": ":Indian Rupee ",
+					"conversionRate": 1.0,
+					"currencySymbol": ""
+				},
+				"averagePriceNoTax": 1296.0,
+				"averagePriceWithTax": 1296.0,
+				"sellingPriceNoTax": 3887.0,
+				"sellingPriceWithTax": 3887.0
+			},
+			"lowestNetPayableAmountDTO": {
+				"value": 4431.0,
+				"maxFraction": 0,
+				"currencyCode": {
+					"id": "INR",
+					"value": ":Indian Rupee ",
+					"conversionRate": 1.0,
+					"currencySymbol": ""
+				},
+				"averagePriceNoTax": 4431.0
+			},
+			"cheapestPercentage": 0.0,
+			"cheapestPercentageRatePlanCode": "",
+			"tax": {
+				"value": 544.0
+			},
+			"extraAdult": {
+				"value": 0.0
+			},
+			"fareText": "All Inclusive"
+		},
+		"promotions": {
+			"opaquePromotion": {
+				"isOpaqueAvailable": false,
+				"techShowOpaque": false
+			},
+			"promotionsCount": 0
+		},
+		"miscHotelMap": {
+			"category": "BUDGET HOTELS,NEAR TAJ",
+			"hqhotelratingPercent": 70.4,
+			"image_avail": "Y",
+			"hotelurat": 4.0,
+			"hqhotelrating": 4.0,
+			"pahMessage": "No card detail required to secure booking",
+			"hoteluratPercent": 70.4,
+			"PAH_MODEL": "PAH1",
+			"eyeCatchingText": "Good"
+		},
+		"popularityScore": 6.0,
+		"freeCancellationText": "Free Cancellation",
+		"isSoldOut": false
+	}, {
+		"id": "201409011144451647",
+		"idContext": "",
+		"name": "Atulyaa Taj hotel",
+		"hotelShortName": {
+			"value": "Atulyaa Taj hotel",
+			"truncated": false
+		},
+		"propertyName": "Hotel",
+		"htlTagLines": ["Rated 4.4 by Family travelers", "Rated 4.7 on 5 for Location"],
+		"htlTags": [{
+			"tagType": "traveller_rating",
+			"tagTypeCode": "family",
+			"tagPriority": 1,
+			"rated": 4.4,
+			"tagText": "Rated 4.4 by Family travelers"
+		}, {
+			"tagType": "parameterWise_rating",
+			"tagTypeCode": "LOCATION",
+			"tagPriority": 1,
+			"rated": 4.7,
+			"tagText": "Rated 4.7 on 5 for Location"
+		}],
+		"promoted": false,
+		"couponAutoApply": true,
+		"mtkey": "dRQ%2FjPNanvfEKkvxk6W7JOWg8LbV1AuQ%2FFX%2FQWkqdoYJjsn6ZP7HEU2j7tZrtft3sITkPkRC2If8ESoBtnmrkpr8E5FQMPo%2Bg9vFdFe%2FJ%2FE%2B7Z%2Bdo1uul3vyenpHg0t6VWLJhSc9GP4Nik%2B3hb0poXAyohKRNka0CnH4yIOgPCoVoenRhPno%2BFQAX72Hqiq9yko26xn5R%2BLVhw65ov4YBjZCgB0ax3GTX%2BCN5SQPyZEXUlIsUe3bOc0egXFfXPMISYL5WyAr3XEnx%2Bv7fcXa6Z8vV2rOAnvpgJ1ciD6D5n8aPi2rahuuGYIB6Fj2XKAXtjGy86oSGOY5PeH1DcFeb9DWypZG%2B3Jj97yL7RKHCKufQps9Tn4yTHFzqsyefw0zK4Bg7mmw7v28Neovn0NqXpx4fYKI38kCAJVPPMMqdQkVHA9dB6e2PdW%2BNj3qKcw9",
+		"isAbsorptionApplied": false,
+		"islmdPresent": false,
+		"mainImgUrl": "//imghtlak.mmtcdn.com/mmtimgs/images/upload/AtulyaaTajhotel_Pool11433161079296_Listing.jpg",
+		"htlAvgRating": 4.2,
+		"userReviewsCount": 148,
+		"taUserRating": 3.5,
+		"taReviewCount": "376",
+		"featured": "N",
+		"isFastSelling": false,
+		"starRating": {
+			"name": "Three",
+			"value": 3
+		},
+		"address": {
+			"area": ["Taj Mahal", "East Gate", "East Agra"],
+			"city": "Agra",
+			"line1": "538,Near Shilp Gram,Taj Mahal East Gate Road,Agra,Uttar Pradesh",
+			"line2": "Taj Mahal Eastern Gate",
+			"state": "Uttar Pradesh"
+		},
+		"geoLocation": {
+			"distanceMeter": [],
+			"latitude": "27.168551",
+			"longitude": "78.050804"
+		},
+		"punchline": "A luxurious property offering facilities like swimming pool, coffee shop, restaurant, banquet hall, business centre, power backup, travel desk, Wi-Fi internet access",
+		"isFreeWifiAvail": true,
+		"hotelAmenitiesSet": [5, 6, 7],
+		"isPAHAvailable": false,
+		"displayFare": {
+			"availStatus": "B",
+			"slashedPrice": {
+				"value": 2500.0,
+				"maxFraction": 0,
+				"currencyCode": {
+					"id": "INR",
+					"value": ":Indian Rupee ",
+					"conversionRate": 1.0,
+					"currencySymbol": ""
+				},
+				"averagePriceNoTax": 2500.0,
+				"averagePriceWithTax": 2500.0,
+				"sellingPriceNoTax": 7500.0,
+				"sellingPriceWithTax": 7500.0
+			},
+			"lowestNetPayableAmountDTO": {
+				"value": 8550.0,
+				"maxFraction": 0,
+				"currencyCode": {
+					"id": "INR",
+					"value": ":Indian Rupee ",
+					"conversionRate": 1.0,
+					"currencySymbol": ""
+				},
+				"averagePriceNoTax": 8550.0
+			},
+			"cheapestPercentage": 0.0,
+			"cheapestPercentageRatePlanCode": "",
+			"tax": {
+				"value": 1050.0
+			},
+			"extraAdult": {
+				"value": 0.0
+			},
+			"fareText": "All Inclusive"
+		},
+		"promotions": {
+			"opaquePromotion": {
+				"isOpaqueAvailable": false,
+				"techShowOpaque": false
+			},
+			"promotionsList": [{
+				"priceSlasher": false,
+				"value": "20% Discount on Food and Beverages,20% Discount on Laundry Service,Free upgrade to a higher room category - Subject to availability",
+				"promoLevel": "HOTEL_LEVEL"
+			}],
+			"promotionsCount": 1
+		},
+		"miscHotelMap": {
+			"category": "NEAR TAJ",
+			"hqhotelratingPercent": 68.6,
+			"image_avail": "Y",
+			"hotelurat": 4.2,
+			"hqhotelrating": 3.9,
+			"pahMessage": "No card detail required to secure booking",
+			"hoteluratPercent": 73.9,
+			"PAH_MODEL": "PAH1",
+			"eyeCatchingText": "Good"
+		},
+		"popularityScore": 7.0,
+		"freeCancellationText": "Free Cancellation",
+		"isSoldOut": false
+	}, {
+		"id": "201204201222232733",
+		"idContext": "",
+		"name": "Mango Hotels, Agra - Sikandra",
+		"hotelShortName": {
+			"value": "Mango Hotels, Agra - Sikand",
+			"truncated": true
+		},
+		"propertyName": "Hotel",
+		"htlTagLines": ["Rated 4.1 by Family travelers", "Rated 4.2 on 5 for Service"],
+		"htlTags": [{
+			"tagType": "traveller_rating",
+			"tagTypeCode": "family",
+			"tagPriority": 1,
+			"rated": 4.1,
+			"tagText": "Rated 4.1 by Family travelers"
+		}, {
+			"tagType": "parameterWise_rating",
+			"tagTypeCode": "SERVICE",
+			"tagPriority": 2,
+			"rated": 4.2,
+			"tagText": "Rated 4.2 on 5 for Service"
+		}],
+		"promoted": false,
+		"couponAutoApply": true,
+		"mtkey": "dRQ%2FjPNanvf2Su1wWER0%2FNLVtw5KHtARMYTkx2u%2Bw4XUUfO7%2FgE53DRjaVuMKzV8BJF9EdYUJHn4wdgt%2BzeUZ3g3sThNgcXda1FGNqujLurk7HZEEHTTFmTKwkOoiXENp2ddbjBpsI06hDOv%2Fmp%2Bl0hS2DyvYv4yCVntOXPkfqsmbEq98JwGrA%2BC%2B78kpIPfUFEk1rvpGkxcNEqHUPSyx%2B4rgun7LgNc3myimH32p6DxAHYr2tXLwn26MVK6l9IKL5CEZ1paChE5uJ%2F%2BQYGrnBKTbwAkljPdZQQtDIQ32CXgwuxCDv1489OVLfYDFPQGBn%2BKqQhsCpZVUupOLT4yQwPd1xjWpSqOmfGXjMTLcbaCmJT%2FtGRnoUbY%2FamoOOVvsE8dDowRVKbuR4MzfIEcBIJI2TjW3Z7tqhCfEWjtqsFi59o8x59iQyHjq4lZjIeC",
+		"isAbsorptionApplied": false,
+		"islmdPresent": false,
+		"mainImgUrl": "//imghtlak.mmtcdn.com/mmtimgs/images/upload/MangoHotelsAgraSikandra_1470232445359_Listing.jpg",
+		"htlAvgRating": 4.2,
+		"userReviewsCount": 112,
+		"taUserRating": 4.0,
+		"taReviewCount": "160",
+		"featured": "N",
+		"isFastSelling": false,
+		"starRating": {
+			"name": "Three",
+			"value": 3
+		},
+		"address": {
+			"area": ["Sikandra"],
+			"city": "Agra",
+			"line1": "Block No 66 and 73, NH 2",
+			"line2": "Delhi Agra Road, Next to Dawar Industries, Sikandra",
+			"state": "Uttar Pradesh"
+		},
+		"geoLocation": {
+			"distanceMeter": [],
+			"latitude": "27.220754",
+			"longitude": "77.930753"
+		},
+		"punchline": "Restaurant, conference hall and meeting room are available in Mango Suites Ascent. The Taj Mahal is around 15 km away from here.",
+		"isFreeWifiAvail": true,
+		"hotelAmenitiesSet": [3, 5, 6],
+		"isPAHAvailable": false,
+		"displayFare": {
+			"availStatus": "B",
+			"actualPrice": {
+				"value": 3199.0,
+				"maxFraction": 0,
+				"currencyCode": {
+					"id": "INR",
+					"value": ":Indian Rupee ",
+					"conversionRate": 1.0,
+					"currencySymbol": ""
+				},
+				"averagePriceNoTax": 3199.0,
+				"averagePriceWithTax": 3199.0,
+				"sellingPriceNoTax": 9597.0,
+				"sellingPriceWithTax": 9597.0
+			},
+			"slashedPrice": {
+				"value": 1600.0,
+				"maxFraction": 0,
+				"currencyCode": {
+					"id": "INR",
+					"value": ":Indian Rupee ",
+					"conversionRate": 1.0,
+					"currencySymbol": ""
+				},
+				"averagePriceNoTax": 1600.0,
+				"averagePriceWithTax": 1600.0,
+				"sellingPriceNoTax": 4799.0,
+				"sellingPriceWithTax": 4799.0
+			},
+			"lowestNetPayableAmountDTO": {
+				"value": 5471.0,
+				"maxFraction": 0,
+				"currencyCode": {
+					"id": "INR",
+					"value": ":Indian Rupee ",
+					"conversionRate": 1.0,
+					"currencySymbol": ""
+				},
+				"averagePriceNoTax": 5471.0
+			},
+			"cheapestPercentage": 0.0,
+			"cheapestPercentageRatePlanCode": "",
+			"tax": {
+				"value": 672.0
+			},
+			"extraAdult": {
+				"value": 0.0
+			},
+			"fareText": "All Inclusive"
+		},
+		"promotions": {
+			"opaquePromotion": {
+				"isOpaqueAvailable": false,
+				"techShowOpaque": false
+			},
+			"promotionsList": [{
+				"priceSlasher": true,
+				"value": "Book Now \u0026 Get 50% Discount",
+				"promoLevel": "HOTEL_LEVEL"
+			}],
+			"promotionsCount": 1
+		},
+		"miscHotelMap": {
+			"hqhotelratingPercent": 70.4,
+			"image_avail": "Y",
+			"hotelurat": 4.2,
+			"hqhotelrating": 4.0,
+			"hoteluratPercent": 73.9,
+			"eyeCatchingText": "Very Good"
+		},
+		"shortHotelUSP": "Located in the commercial hub of Sikandra, this business hotel offers a multi-cuisine restaurant and airport tranfers.",
+		"popularityScore": 8.0,
+		"freeCancellationText": "Free Cancellation",
+		"isSoldOut": false
+	}, {
+		"id": "226",
+		"idContext": "TRUST",
+		"name": "The Taj Gateway Hotel Fatehabad Road",
+		"hotelShortName": {
+			"value": "The Taj Gateway Hotel Fateh",
+			"truncated": true
+		},
+		"propertyName": "Hotel",
+		"htlTagLines": ["#3 rated hotel in East Agra", "Rated 4.7 by Family travelers", "Rated above 4 by 88% travelers", "Rated 4.8 on 5 for Location"],
+		"htlTags": [{
+			"tagType": "area",
+			"tagTypeCode": "East Agra",
+			"tagPriority": 1,
+			"rated": 3.0,
+			"tagText": "rated hotel in East Agra",
+			"rank": "#3"
+		}, {
+			"tagType": "traveller_rating",
+			"tagTypeCode": "family",
+			"tagPriority": 1,
+			"rated": 4.7,
+			"tagText": "Rated 4.7 by Family travelers"
+		}, {
+			"tagType": "reviewer_rating",
+			"tagTypeCode": "reviewer_rating",
+			"tagPriority": 0,
+			"rated": 4.6,
+			"tagText": "Rated above 4 by 88% travelers"
+		}, {
+			"tagType": "parameterWise_rating",
+			"tagTypeCode": "LOCATION",
+			"tagPriority": 1,
+			"rated": 4.8,
+			"tagText": "Rated 4.8 on 5 for Location"
+		}],
+		"promoted": false,
+		"couponAutoApply": true,
+		"mtkey": "dRQ%2FjPNanvdz7n%2BU5PHIgUGaWvEme7h1wwYOpIDbPJ2fuP4ljt8tjNytlu%2B4bjmXTjL9BTZ8Bb0cgHQLGqZmNyAxoizq0ox85z58RixXb1S%2FYY44rFkU8Fg0QDIgwDoLrazj7DMi5rMYhGBYIoHyK1NsNX%2FMDTbekMmaTuS%2B1PfhnfSg3TScpjHy3OqofooBap3WJ55ctZADU%2BJ6DffPjU8SVIv%2F1nq2iDkHaBfwhlMa%2FGCClnBfuhs7AYYK22CXXTLPKRzUdvgBkT1snekJn%2BfbLK4TMZpTPsweijXuLt9XGoKfhqCRegshKir3NpPdaB15EDKWp%2F%2BoGILmoEl26eImfj6Cn0vfHDu8If5PImt%2FrmScdMShYu8jegt52AYyLlYWtqAQKFfA9YzqtmDwiQubQir2POfeLmp7q6V%2FoBMd0mCiWTrgkRmC2pq8Ih324oBZiP9yLboW4DiIvwarpWQMTAGboqHaFzN9qbOpokU%3D",
+		"isAbsorptionApplied": false,
+		"islmdPresent": false,
+		"mainImgUrl": "//imghtlak.mmtcdn.com/mmtimgs/images/upload/TheTajGatewayHotelFatehabadRoad_1467721849040_Listing.jpg",
+		"htlAvgRating": 4.6,
+		"userReviewsCount": 128,
+		"taUserRating": 4.0,
+		"taReviewCount": "1572",
+		"featured": "Y",
+		"isFastSelling": false,
+		"starRating": {
+			"name": "Five",
+			"value": 5
+		},
+		"address": {
+			"area": ["Fatehabad Road", "East Agra"],
+			"city": "Agra",
+			"line1": "Taj Ganj, Fatehabad Road",
+			"line2": "02 km from Taj Mahal",
+			"state": "Uttar Pradesh"
+		},
+		"geoLocation": {
+			"distanceMeter": [],
+			"latitude": "27.161",
+			"longitude": "78.04"
+		},
+		"punchline": "The Taj Gateway Hotel is set 1.6 km away from Taj Mahal. It features a spa, restaurant, pool and business centre.",
+		"isFreeWifiAvail": true,
+		"hotelAmenitiesSet": [3, 5, 6, 7],
+		"isPAHAvailable": false,
+		"displayFare": {
+			"availStatus": "B",
+			"slashedPrice": {
+				"value": 3060.0,
+				"maxFraction": 0,
+				"currencyCode": {
+					"id": "INR",
+					"value": ":Indian Rupee ",
+					"conversionRate": 1.0,
+					"currencySymbol": ""
+				},
+				"averagePriceNoTax": 3060.0,
+				"averagePriceWithTax": 3060.0,
+				"sellingPriceNoTax": 9180.0,
+				"sellingPriceWithTax": 9180.0
+			},
+			"lowestNetPayableAmountDTO": {
+				"value": 10465.0,
+				"maxFraction": 0,
+				"currencyCode": {
+					"id": "INR",
+					"value": ":Indian Rupee ",
+					"conversionRate": 1.0,
+					"currencySymbol": ""
+				},
+				"averagePriceNoTax": 10465.0
+			},
+			"cheapestPercentage": 0.0,
+			"cheapestPercentageRatePlanCode": "",
+			"tax": {
+				"value": 1285.0
+			},
+			"extraAdult": {
+				"value": 0.0
+			},
+			"fareText": "All Inclusive"
+		},
+		"promotions": {
+			"opaquePromotion": {
+				"isOpaqueAvailable": false,
+				"techShowOpaque": false
+			},
+			"promotionsList": [{
+				"priceSlasher": false,
+				"value": "Book and get 500 Spa Credits and 20% discount on Food and Soft Beverages !!!",
+				"promoLevel": "HOTEL_LEVEL"
+			}],
+			"promotionsCount": 1
+		},
+		"miscHotelMap": {
+			"category": "NEAR TAJ",
+			"hqhotelratingPercent": 73.9,
+			"image_avail": "N",
+			"hotelurat": 4.6,
+			"hqhotelrating": 4.2,
+			"hoteluratPercent": 81.0,
+			"eyeCatchingText": "Very Good"
+		},
+		"popularityScore": 9.0,
+		"isSoldOut": false
+	}, {
+		"id": "201407021336427999",
+		"idContext": "",
+		"name": "Hotel Alleviate",
+		"hotelShortName": {
+			"value": "Hotel Alleviate",
+			"truncated": false
+		},
+		"propertyName": "Hotel",
+		"htlTagLines": ["Rated 4.3 by Family travelers", "Rated 4.3 on 5 for Location"],
+		"htlTags": [{
+			"tagType": "traveller_rating",
+			"tagTypeCode": "family",
+			"tagPriority": 1,
+			"rated": 4.3,
+			"tagText": "Rated 4.3 by Family travelers"
+		}, {
+			"tagType": "parameterWise_rating",
+			"tagTypeCode": "LOCATION",
+			"tagPriority": 1,
+			"rated": 4.3,
+			"tagText": "Rated 4.3 on 5 for Location"
+		}],
+		"promoted": false,
+		"couponAutoApply": true,
+		"mtkey": "dRQ%2FjPNanve8W8h0G7%2FvYc5jQqnVg8fopgLjZ5w0IrCdUYP2Go4iZX8GjFdcD8ZZ3hyHtUv2vMy9wGI%2BLytGf%2FH1xacpYAsvlUfxwK7hdJpsQYkwz92NrCOyIFZeArydZD1HZG3gNrGGPZTjmEZ1a7uoZL%2BBA2pJ2rZABWHE5AMyM%2FKDq3WzY35aT2suslkvmzXAzsa5D5qjIqK0GbhXjckoqfmo4th6BoCfzP6Vm377YBaziy19q4li0Aohcko6PAh7wipV8BBsV45hF8d0y2k0nrdFU2KyodbBFb00OVkQY01L%2FtqAa9gSt%2BdvzoN4LfA5E5xAzprBzEwWffC4PR4qm3I%2F84W7v3fxOy2yBKH3dyRdCRK8Z%2F1Cnnqxyzngty0glup0aZog6wCN8apWgIDoYtlFf5tRDBLJH%2BcYGpaNIoyByHryiF6qbDERAJhXHRozhZ5xm48M14zY%2Bei5clRvB3heQgVqcmV6GvPYhgLRejIX8nATZhigq7NProNo",
+		"isAbsorptionApplied": false,
+		"islmdPresent": false,
+		"mainImgUrl": "//imghtlak.mmtcdn.com/mmtimgs/images/upload/HotelAlleviate_1469865680425_Listing.jpg",
+		"htlAvgRating": 4.4,
+		"userReviewsCount": 53,
+		"taUserRating": 4.0,
+		"taReviewCount": "168",
+		"featured": "N",
+		"isFastSelling": false,
+		"starRating": {
+			"name": "Three",
+			"value": 3
+		},
+		"address": {
+			"area": ["Yamuna Bank"],
+			"city": "Agra",
+			"line1": "6/27, Yamuna Kinara Road",
+			"line2": "Belanganj",
+			"state": "Uttar Pradesh"
+		},
+		"geoLocation": {
+			"distanceMeter": [],
+			"latitude": "27.190005",
+			"longitude": "78.025003"
+		},
+		"punchline": "A luxurious property offering central AC, Wi-Fi, room service, restaurant, conference hall, banquet hall",
+		"isFreeWifiAvail": false,
+		"hotelAmenitiesSet": [3, 5, 6],
+		"isPAHAvailable": false,
+		"displayFare": {
+			"availStatus": "B",
+			"slashedPrice": {
+				"value": 1799.0,
+				"maxFraction": 0,
+				"currencyCode": {
+					"id": "INR",
+					"value": ":Indian Rupee ",
+					"conversionRate": 1.0,
+					"currencySymbol": ""
+				},
+				"averagePriceNoTax": 1799.0,
+				"averagePriceWithTax": 1799.0,
+				"sellingPriceNoTax": 5397.0,
+				"sellingPriceWithTax": 5397.0
+			},
+			"lowestNetPayableAmountDTO": {
+				"value": 6153.0,
+				"maxFraction": 0,
+				"currencyCode": {
+					"id": "INR",
+					"value": ":Indian Rupee ",
+					"conversionRate": 1.0,
+					"currencySymbol": ""
+				},
+				"averagePriceNoTax": 6153.0
+			},
+			"cheapestPercentage": 0.0,
+			"cheapestPercentageRatePlanCode": "",
+			"tax": {
+				"value": 756.0
+			},
+			"extraAdult": {
+				"value": 0.0
+			},
+			"fareText": "All Inclusive"
+		},
+		"promotions": {
+			"opaquePromotion": {
+				"isOpaqueAvailable": false,
+				"techShowOpaque": false
+			},
+			"promotionsCount": 0
+		},
+		"miscHotelMap": {
+			"hqhotelratingPercent": 70.4,
+			"image_avail": "Y",
+			"hotelurat": 4.4,
+			"hqhotelrating": 4.0,
+			"pahMessage": "Reserve your booking without paying now",
+			"hoteluratPercent": 77.4,
+			"PAH_MODEL": "PAH2",
+			"eyeCatchingText": "Very Good"
+		},
+		"popularityScore": 10.0,
+		"freeCancellationText": "Free Cancellation",
+		"isSoldOut": false
+	}, {
+		"id": "201505111406071458",
+		"idContext": "",
+		"name": "Ramada Plaza",
+		"hotelShortName": {
+			"value": "Ramada Plaza",
+			"truncated": false
+		},
+		"propertyName": "Hotel",
+		"htlTagLines": ["Rated 4.8 by Family travelers", "Rated above 4 by 95% travelers", "Rated 4.3 on 5 for Location"],
+		"htlTags": [{
+			"tagType": "traveller_rating",
+			"tagTypeCode": "family",
+			"tagPriority": 1,
+			"rated": 4.8,
+			"tagText": "Rated 4.8 by Family travelers"
+		}, {
+			"tagType": "reviewer_rating",
+			"tagTypeCode": "reviewer_rating",
+			"tagPriority": 0,
+			"rated": 4.7,
+			"tagText": "Rated above 4 by 95% travelers"
+		}, {
+			"tagType": "parameterWise_rating",
+			"tagTypeCode": "LOCATION",
+			"tagPriority": 1,
+			"rated": 4.3,
+			"tagText": "Rated 4.3 on 5 for Location"
+		}],
+		"promoted": false,
+		"couponAutoApply": true,
+		"mtkey": "dRQ%2FjPNanvf2QzE3vpyDSozRPtZowXe0u2swYEzm%2BYZV3rIIAMA7o5%2BCKXsFZmKXgrKA7Ov1jPGCnhOUOkcPxZpJ%2FZHv54sE9SLDwJT7H7qW3BodrIA8H8XnjGlAVZV4TwbBqocba5y4yR3oKv%2BDN%2B%2BWWDKjxE4vsBD9RFvj6Y0iVOUhnm51lbLOI%2FbbqBkjx%2F9ixkkKzuBLBVuHPPqIYyFVXjkTmEb9pLTJS0Hgsp6TdYfc6wpyj374Et5s6I4Zt7pQFyU158MHoOxW1Z3CaN3%2Fx9ZDQ9Xn3vD9gqX%2FNt6iA7UVqGgaXpUvL4ktxafVRdmWspB%2FwmxLJQ7KSAkYzLKXeUbtcwiLzNM23E98mszgk1OoC02HSC2y%2B%2BGFymc6OsdQ%2FMTaeospLk6SVJunex8El0ztKmYkTdrRpPPEA76SK72K1WAUy%2FkDekNQjW6WkAzRmu5%2BD6h4PBpmCl4h4aNu83je0did",
+		"isAbsorptionApplied": false,
+		"islmdPresent": false,
+		"mainImgUrl": "//imghtlak.mmtcdn.com/mmtimgs/images/upload/RamadaPlaza_1464341900474_Listing.jpg",
+		"htlAvgRating": 4.7,
+		"userReviewsCount": 133,
+		"taUserRating": 4.5,
+		"taReviewCount": "35",
+		"featured": "N",
+		"isFastSelling": false,
+		"starRating": {
+			"name": "Five",
+			"value": 5
+		},
+		"address": {
+			"area": ["Fatehabad Road"],
+			"city": "Agra",
+			"line1": "Ring Road Crossing, Fatehabad Road",
+			"line2": "Ring Road Crossing, Fatehabad Road",
+			"state": "Uttar Pradesh"
+		},
+		"geoLocation": {
+			"distanceMeter": [],
+			"latitude": "27.138521",
+			"longitude": "78.092597"
+		},
+		"punchline": "A 5 star property of Agra offers services like front desk, gymnasium, doctor on call, banquet/conference hall, bar",
+		"isFreeWifiAvail": true,
+		"hotelAmenitiesSet": [1, 2, 3, 5, 6, 7],
+		"isPAHAvailable": false,
+		"displayFare": {
+			"availStatus": "B",
+			"actualPrice": {
+				"value": 4000.0,
+				"maxFraction": 0,
+				"currencyCode": {
+					"id": "INR",
+					"value": ":Indian Rupee ",
+					"conversionRate": 1.0,
+					"currencySymbol": ""
+				},
+				"averagePriceNoTax": 4000.0,
+				"averagePriceWithTax": 4000.0,
+				"sellingPriceNoTax": 12000.0,
+				"sellingPriceWithTax": 12000.0
+			},
+			"slashedPrice": {
+				"value": 3600.0,
+				"maxFraction": 0,
+				"currencyCode": {
+					"id": "INR",
+					"value": ":Indian Rupee ",
+					"conversionRate": 1.0,
+					"currencySymbol": ""
+				},
+				"averagePriceNoTax": 3600.0,
+				"averagePriceWithTax": 3600.0,
+				"sellingPriceNoTax": 10800.0,
+				"sellingPriceWithTax": 10800.0
+			},
+			"lowestNetPayableAmountDTO": {
+				"value": 12312.0,
+				"maxFraction": 0,
+				"currencyCode": {
+					"id": "INR",
+					"value": ":Indian Rupee ",
+					"conversionRate": 1.0,
+					"currencySymbol": ""
+				},
+				"averagePriceNoTax": 12312.0
+			},
+			"cheapestPercentage": 0.0,
+			"cheapestPercentageRatePlanCode": "",
+			"tax": {
+				"value": 1512.0
+			},
+			"extraAdult": {
+				"value": 0.0
+			},
+			"fareText": "All Inclusive"
+		},
+		"promotions": {
+			"opaquePromotion": {
+				"isOpaqueAvailable": false,
+				"techShowOpaque": false
+			},
+			"promotionsList": [{
+				"priceSlasher": true,
+				"value": "Book 7 days in advance or more \u0026 Get 15% Discount",
+				"promoLevel": "ROOM_LEVEL"
+			}, {
+				"priceSlasher": true,
+				"value": "Book 7 days in advance or more \u0026 Get 15% Discount",
+				"promoLevel": "ROOM_LEVEL"
+			}, {
+				"priceSlasher": false,
+				"value": "Free Early Check-in and Late Check-out for Makemytrip guests (Subject to availability) !!!",
+				"promoLevel": "HOTEL_LEVEL"
+			}, {
+				"priceSlasher": false,
+				"value": "Complimentary unlimited Wi-Fi for Makemytrip guests !!!",
+				"promoLevel": "HOTEL_LEVEL"
+			}],
+			"promotionsCount": 4
+		},
+		"miscHotelMap": {
+			"hqhotelratingPercent": 77.4,
+			"image_avail": "N",
+			"hotelurat": 4.7,
+			"hqhotelrating": 4.4,
+			"hoteluratPercent": 82.7,
+			"eyeCatchingText": "Fabulous"
+		},
+		"popularityScore": 11.0,
+		"isSoldOut": false
+	}, {
+		"id": "200701171234089545",
+		"idContext": "",
+		"name": "Howard Plaza The Fern",
+		"hotelShortName": {
+			"value": "Howard Plaza The Fern",
+			"truncated": false
+		},
+		"propertyName": "Hotel",
+		"htlTagLines": ["#1 ranked by Solo travelers ", "Rated 4.4 by Family travelers", "Rated 4.5 on 5 for Location"],
+		"htlTags": [{
+			"tagType": "traveller_rank",
+			"tagTypeCode": "solo",
+			"tagPriority": 4,
+			"rated": 1.0,
+			"tagText": "ranked by Solo travelers ",
+			"rank": "#1"
+		}, {
+			"tagType": "traveller_rating",
+			"tagTypeCode": "family",
+			"tagPriority": 1,
+			"rated": 4.4,
+			"tagText": "Rated 4.4 by Family travelers"
+		}, {
+			"tagType": "parameterWise_rating",
+			"tagTypeCode": "LOCATION",
+			"tagPriority": 1,
+			"rated": 4.5,
+			"tagText": "Rated 4.5 on 5 for Location"
+		}],
+		"promoted": false,
+		"couponAutoApply": true,
+		"mtkey": "dRQ%2FjPNanvcTKbE5Nc%2F6ZHqvR5ZFg7DQI8X2MMMPRI4Bjq4KGIhnElDU2zbFmgf44wvufCcj%2Bv9n0t3zqmyVemQy9L7UKwsTlOitHpW0q%2B009CHkGWXBbmvM3o4Xqj3W20puoYhN%2BvwdVF0t0ibVwBynPUNtCgbdLn06Fs959SOHtLOcJbX6Hl8zfAf0SIojSDXggJ2nSGCOtyfk9OEqBZEeTLggGZ1Gf8A2e%2BSdANVIKl0weSTot8Loaj%2F%2F9bXqxERagFBQ4AukQREBfENcdZEYkgCTET5PQcy6qFyMOFFuADRl4XsPmla8Y%2BacaBI5amNimuWW963gIoTfUXRamuBEgwGftzZpf7HsRDF7sVNzGZp11bvcAHx%2BtjVdfUjDiT9N003rNydIzXAGeJbg2OcBDPXnrUOpeeyVS6sZp4OrwTVsKG1xRyQeLY6m5zuVIS3YNDPpBWGhpSIyq282gICWfF3yKrrp",
+		"isAbsorptionApplied": false,
+		"islmdPresent": false,
+		"mainImgUrl": "//imghtlak.mmtcdn.com/mmtimgs/images/upload/HowardPlazaTheFern_1467120247538_Listing.jpg",
+		"htlAvgRating": 4.2,
+		"userReviewsCount": 284,
+		"taUserRating": 3.5,
+		"taReviewCount": "728",
+		"featured": "Y",
+		"isFastSelling": false,
+		"starRating": {
+			"name": "Four",
+			"value": 4
+		},
+		"address": {
+			"area": ["Taj Mahal", "Fatehabad Road", "Taj Ganj", "East Agra"],
+			"city": "Agra",
+			"line1": "Taj Ganj, Fatehabad Road",
+			"line2": "Superb location!",
+			"state": "Uttar Pradesh"
+		},
+		"geoLocation": {
+			"distanceMeter": [],
+			"latitude": "27.1629",
+			"longitude": "78.0367"
+		},
+		"punchline": "Only 1.6 km from the majestic Taj Mahal, Hotel Howard Plaza provides various dining options, multi-purpose venues, pool, gift shop and spa.",
+		"isFreeWifiAvail": false,
+		"hotelAmenitiesSet": [2, 6, 7],
+		"isPAHAvailable": false,
+		"displayFare": {
+			"availStatus": "B",
+			"actualPrice": {
+				"value": 2200.0,
+				"maxFraction": 0,
+				"currencyCode": {
+					"id": "INR",
+					"value": ":Indian Rupee ",
+					"conversionRate": 1.0,
+					"currencySymbol": ""
+				},
+				"averagePriceNoTax": 2200.0,
+				"averagePriceWithTax": 2200.0,
+				"sellingPriceNoTax": 6600.0,
+				"sellingPriceWithTax": 6600.0
+			},
+			"slashedPrice": {
+				"value": 1870.0,
+				"maxFraction": 0,
+				"currencyCode": {
+					"id": "INR",
+					"value": ":Indian Rupee ",
+					"conversionRate": 1.0,
+					"currencySymbol": ""
+				},
+				"averagePriceNoTax": 1870.0,
+				"averagePriceWithTax": 1870.0,
+				"sellingPriceNoTax": 5610.0,
+				"sellingPriceWithTax": 5610.0
+			},
+			"lowestNetPayableAmountDTO": {
+				"value": 6395.0,
+				"maxFraction": 0,
+				"currencyCode": {
+					"id": "INR",
+					"value": ":Indian Rupee ",
+					"conversionRate": 1.0,
+					"currencySymbol": ""
+				},
+				"averagePriceNoTax": 6395.0
+			},
+			"cheapestPercentage": 0.0,
+			"cheapestPercentageRatePlanCode": "",
+			"tax": {
+				"value": 785.0
+			},
+			"extraAdult": {
+				"value": 0.0
+			},
+			"fareText": "All Inclusive"
+		},
+		"promotions": {
+			"opaquePromotion": {
+				"isOpaqueAvailable": false,
+				"techShowOpaque": false
+			},
+			"promotionsList": [{
+				"priceSlasher": true,
+				"value": "Book for 3 nights or more \u0026 Get 15% Discount",
+				"promoLevel": "HOTEL_LEVEL"
+			}],
+			"promotionsCount": 1
+		},
+		"miscHotelMap": {
+			"hqhotelratingPercent": 72.2,
+			"image_avail": "Y",
+			"hotelurat": 4.2,
+			"hqhotelrating": 4.1,
+			"pahMessage": "Reserve your booking without paying now",
+			"hoteluratPercent": 73.9,
+			"PAH_MODEL": "PAH2",
+			"eyeCatchingText": "Good"
+		},
+		"shortHotelUSP": "Close to Taj Mahal and Agra Fort, this hotel offers rooftop dining, yoga sessions and souvenir shop. Revitalize at Elixir Spa.",
+		"popularityScore": 12.0,
+		"freeCancellationText": "Free Cancellation",
+		"isSoldOut": false
+	}, {
+		"id": "201603281512359911",
+		"idContext": "",
+		"name": "Treebo White Inn",
+		"hotelShortName": {
+			"value": "Treebo White Inn",
+			"truncated": false
+		},
+		"propertyName": "Hotel",
+		"htlTagLines": ["Rated 4.3 by Family travelers", "Rated 4.5 on 5 for Location"],
+		"htlTags": [{
+			"tagType": "traveller_rating",
+			"tagTypeCode": "family",
+			"tagPriority": 1,
+			"rated": 4.3,
+			"tagText": "Rated 4.3 by Family travelers"
+		}, {
+			"tagType": "parameterWise_rating",
+			"tagTypeCode": "LOCATION",
+			"tagPriority": 1,
+			"rated": 4.5,
+			"tagText": "Rated 4.5 on 5 for Location"
+		}],
+		"promoted": false,
+		"couponAutoApply": true,
+		"mtkey": "dRQ%2FjPNanveASlCQWZCLHbvxJGiOoYJwGzK70zkj9hThNoRnOMBrFRAnn7tqXWykkpHh17sWooIuR4ai4PBcRe1NMUAe5VcAHyK3lLhfte1iES8xln1jXm5n4SQa%2Fp5rh2YtgRJV0R39KGEe%2FueMBx%2BmtbfbNtE2JG4xKDDkD%2F25Zl3zkiRJynix6vIVuBZu7z4V3s7zbixHbhG8vNmccFhjjuSJXORomWwhwRbd5l8aVDG68F3AoXiyDXvEwNd921qcSt6%2Fsh9zMF%2FCJyia9COmxffAyzO8DWVNvNSbsRpwPsvNTu6UhPOYCrUOw%2F5thn94DroSJgGMmrW9VI%2FRgoC0XQ6PukRwBLwpEh4VVMHtTAi8EJ%2BsygO6Jk28mMt90pjdGYRf%2BqshhvH7dHDKq%2FxJQW8ZpUfQ",
+		"isAbsorptionApplied": false,
+		"islmdPresent": false,
+		"mainImgUrl": "//imghtlak.mmtcdn.com/mmtimgs/images/upload/TreeboWhiteInn_facade_Listing.jpg",
+		"htlAvgRating": 4.4,
+		"userReviewsCount": 11,
+		"taUserRating": 0.0,
+		"featured": "N",
+		"isFastSelling": false,
+		"starRating": {
+			"name": "Two",
+			"value": 2
+		},
+		"address": {
+			"area": ["Taj Mahal", "Behind Man Singh Palace Hotel"],
+			"city": "Agra",
+			"line1": "21, Shilpgram Road, Taj Nagari -1, Near Shilpgram",
+			"line2": "Walking Distance to Taj Mahal",
+			"state": "Uttar Pradesh"
+		},
+		"geoLocation": {
+			"distanceMeter": [],
+			"latitude": "27.16474",
+			"longitude": "78.0541"
+		},
+		"punchline": "Treebo White, Agra is located at a walking distance to world renowned monument Taj Mahal.",
+		"isFreeWifiAvail": false,
+		"hotelAmenitiesSet": [5, 6],
+		"isPAHAvailable": false,
+		"displayFare": {
+			"availStatus": "B",
+			"actualPrice": {
+				"value": 876.0,
+				"maxFraction": 0,
+				"currencyCode": {
+					"id": "INR",
+					"value": ":Indian Rupee ",
+					"conversionRate": 1.0,
+					"currencySymbol": ""
+				},
+				"averagePriceNoTax": 876.0,
+				"averagePriceWithTax": 876.0,
+				"sellingPriceNoTax": 2629.0,
+				"sellingPriceWithTax": 2629.0
+			},
+			"slashedPrice": {
+				"value": 789.0,
+				"maxFraction": 0,
+				"currencyCode": {
+					"id": "INR",
+					"value": ":Indian Rupee ",
+					"conversionRate": 1.0,
+					"currencySymbol": ""
+				},
+				"averagePriceNoTax": 789.0,
+				"averagePriceWithTax": 789.0,
+				"sellingPriceNoTax": 2366.0,
+				"sellingPriceWithTax": 2366.0
+			},
+			"lowestNetPayableAmountDTO": {
+				"value": 2697.0,
+				"maxFraction": 0,
+				"currencyCode": {
+					"id": "INR",
+					"value": ":Indian Rupee ",
+					"conversionRate": 1.0,
+					"currencySymbol": ""
+				},
+				"averagePriceNoTax": 2697.0
+			},
+			"cheapestPercentage": 0.0,
+			"cheapestPercentageRatePlanCode": "",
+			"tax": {
+				"value": 331.0
+			},
+			"extraAdult": {
+				"value": 0.0
+			},
+			"fareText": "All Inclusive"
+		},
+		"promotions": {
+			"opaquePromotion": {
+				"isOpaqueAvailable": false,
+				"techShowOpaque": false
+			},
+			"promotionsList": [{
+				"priceSlasher": true,
+				"value": "Book Now \u0026 Get 10% Discount",
+				"promoLevel": "HOTEL_LEVEL"
+			}],
+			"promotionsCount": 1
+		},
+		"miscHotelMap": {
+			"hqhotelratingPercent": 68.6,
+			"image_avail": "Y",
+			"hotelurat": 4.4,
+			"hqhotelrating": 3.9,
+			"hoteluratPercent": 77.4
+		},
+		"popularityScore": 13.0,
+		"freeCancellationText": "Free Cancellation",
+		"isSoldOut": false
+	}, {
+		"id": "201010292035476765",
+		"idContext": "",
+		"name": "Hotel TAJ INN",
+		"hotelShortName": {
+			"value": "Hotel TAJ INN",
+			"truncated": false
+		},
+		"propertyName": "Hotel",
+		"htlTagLines": ["#2 rated hotel in Taj Mahal", "Rated 4.6 by Family travelers", "Rated above 4 by 85% travelers", "Rated 4.8 on 5 for Location"],
+		"htlTags": [{
+			"tagType": "area",
+			"tagTypeCode": "Taj Mahal",
+			"tagPriority": 1,
+			"rated": 2.0,
+			"tagText": "rated hotel in Taj Mahal",
+			"rank": "#2"
+		}, {
+			"tagType": "traveller_rating",
+			"tagTypeCode": "family",
+			"tagPriority": 1,
+			"rated": 4.6,
+			"tagText": "Rated 4.6 by Family travelers"
+		}, {
+			"tagType": "reviewer_rating",
+			"tagTypeCode": "reviewer_rating",
+			"tagPriority": 0,
+			"rated": 4.6,
+			"tagText": "Rated above 4 by 85% travelers"
+		}, {
+			"tagType": "parameterWise_rating",
+			"tagTypeCode": "LOCATION",
+			"tagPriority": 1,
+			"rated": 4.8,
+			"tagText": "Rated 4.8 on 5 for Location"
+		}],
+		"promoted": false,
+		"couponAutoApply": true,
+		"mtkey": "dRQ%2FjPNanvdVVwi1GQYXy2RpA0dvm0alUvGditnqqMix78RIwm6hZErxz9t2bErsnQvq7CtcEb7wcPKr89s8OdmVSuQDTITTkN8%2F2PpaNJzqvcskRh3h5m8gYTqPYYZQj4gUInE%2FGDVcweq%2FDMo5diHyGZJ4e9Cxeki7zOlAP6GPprhgYVgYKtC8gEYcdnqwnVrX%2FHZNwFdQ6SNH4DSIkkIFxfQFJzVyYSKe%2BebfsZOwlJlBrnZ13yWRm9sm1gaq8h6qN3rLy%2FndMg3A9SgchLJahEGBUct%2Bl9Nm6VDrAPSlaKeEbOVuU9fOuZkLSyqqCQRja3tkYtxSTCaCOikxseElBX0SR7Q65Nt3k5HybMLfCr5qobR21py%2B1fZLN0ABVAiE3rxuAIvCNxnM18Bvu1Nhfh%2BQ%2B9REoKw%2F9v5m%2F1fGH51qShYnQw%3D%3D",
+		"isAbsorptionApplied": false,
+		"islmdPresent": false,
+		"mainImgUrl": "//imghtlak.mmtcdn.com/mmtimgs/images/upload/HotelTAJINN_201010292035476765_Taj Inn_Facade_Image2_Listing.jpg",
+		"htlAvgRating": 4.5,
+		"userReviewsCount": 76,
+		"taUserRating": 3.5,
+		"taReviewCount": "151",
+		"featured": "N",
+		"isFastSelling": false,
+		"starRating": {
+			"name": "Three",
+			"value": 3
+		},
+		"address": {
+			"area": ["Taj Mahal", "Fatehabad Road", "Tajganj", "Taj Rd"],
+			"city": "Agra",
+			"line1": "Taj View crossing, Opposite Hanuman Temple, Fatehabad Road, Agra.",
+			"line2": "Fateabad Road",
+			"state": "Uttar Pradesh"
+		},
+		"geoLocation": {
+			"distanceMeter": [],
+			"latitude": "27.162065",
+			"longitude": "78.039047"
+		},
+		"punchline": "Offering internet access, restaurant, airport transfer and medical aid, this property is around 10 minutes\u0027 drive from Agra Fort Railway Station.",
+		"isFreeWifiAvail": true,
+		"hotelAmenitiesSet": [3, 5, 6],
+		"isPAHAvailable": false,
+		"displayFare": {
+			"availStatus": "B",
+			"actualPrice": {
+				"value": 2700.0,
+				"maxFraction": 0,
+				"currencyCode": {
+					"id": "INR",
+					"value": ":Indian Rupee ",
+					"conversionRate": 1.0,
+					"currencySymbol": ""
+				},
+				"averagePriceNoTax": 2700.0,
+				"averagePriceWithTax": 2700.0,
+				"sellingPriceNoTax": 8100.0,
+				"sellingPriceWithTax": 8100.0
+			},
+			"slashedPrice": {
+				"value": 1350.0,
+				"maxFraction": 0,
+				"currencyCode": {
+					"id": "INR",
+					"value": ":Indian Rupee ",
+					"conversionRate": 1.0,
+					"currencySymbol": ""
+				},
+				"averagePriceNoTax": 1350.0,
+				"averagePriceWithTax": 1350.0,
+				"sellingPriceNoTax": 4050.0,
+				"sellingPriceWithTax": 4050.0
+			},
+			"lowestNetPayableAmountDTO": {
+				"value": 4617.0,
+				"maxFraction": 0,
+				"currencyCode": {
+					"id": "INR",
+					"value": ":Indian Rupee ",
+					"conversionRate": 1.0,
+					"currencySymbol": ""
+				},
+				"averagePriceNoTax": 4617.0
+			},
+			"cheapestPercentage": 0.0,
+			"cheapestPercentageRatePlanCode": "",
+			"tax": {
+				"value": 567.0
+			},
+			"extraAdult": {
+				"value": 0.0
+			},
+			"fareText": "All Inclusive"
+		},
+		"promotions": {
+			"opaquePromotion": {
+				"isOpaqueAvailable": false,
+				"techShowOpaque": false
+			},
+			"promotionsList": [{
+				"priceSlasher": true,
+				"value": "SUMMER DELIGHT: FLAT 50% OFF",
+				"promoLevel": "HOTEL_LEVEL"
+			}, {
+				"priceSlasher": false,
+				"value": "25% Discount on Food and Beverages,Free upgrade to a higher room category - Subject to availability",
+				"promoLevel": "HOTEL_LEVEL"
+			}],
+			"promotionsCount": 2
+		},
+		"miscHotelMap": {
+			"hqhotelratingPercent": 72.2,
+			"image_avail": "Y",
+			"hotelurat": 4.5,
+			"hqhotelrating": 4.1,
+			"pahMessage": "No card detail required to secure booking",
+			"hoteluratPercent": 79.2,
+			"PAH_MODEL": "PAH1",
+			"eyeCatchingText": "Good"
+		},
+		"shortHotelUSP": "10 minutes from the Railway Station, the hotel offers an open-air barbeque area, well-furnished rooms, restaurant and car rental.",
+		"popularityScore": 14.0,
+		"freeCancellationText": "Free Cancellation",
+		"isSoldOut": false
+	}, {
+		"id": "201111091208016593",
+		"idContext": "",
+		"name": "Hotel Love Kush",
+		"hotelShortName": {
+			"value": "Hotel Love Kush",
+			"truncated": false
+		},
+		"propertyName": "Hotel",
+		"category": "VH",
+		"htlTagLines": ["Rated 4.2 by Group travelers"],
+		"htlTags": [{
+			"tagType": "traveller_rating",
+			"tagTypeCode": "group",
+			"tagPriority": 1,
+			"rated": 4.2,
+			"tagText": "Rated 4.2 by Group travelers"
+		}],
+		"promoted": false,
+		"couponAutoApply": true,
+		"mtkey": "dRQ%2FjPNanvdI0kThE4f2fMqlnMoKNkjAd2b655nIAIyX6cMHHgi%2FedLVSAxui4PHh5sE%2FTbTAZi3YzqVaIBIpxWVl1cs5AEtmKEH%2Fnl5mjeYNxjOK146doW0d94ANv85x2bNpFHAlWksf5yZzKiQD06kwcsmEzCYZEm2wG0pl%2B%2BwyFjuoKSfob34ijmtx1H9ac7df1ZU2dZb7LSJiArENLlzxeG840%2B4w%2FZqigWw2gUX98%2BBdFhDaSJpNiu%2BtF48FwvXnD1eylp5RyimdA44UmtAW3UNPtLrgtj3dlwSPZvmd9ba53Dhh9vydPTvRHTTEikdK8yfwybp1td%2FileuXRj%2FY6dcylegcDN2VM54dLTDTvjJA6Vs1IzSEZHw9mB%2FMoBe4L8dXkUXpq2L1wxabfk0A2EgvCXXF5sZOQaMsAc%3D",
+		"isAbsorptionApplied": false,
+		"islmdPresent": false,
+		"mainImgUrl": "//imghtlak.mmtcdn.com/mmtimgs/images/upload/HotelLoveKush_1469702872715_Listing.jpg",
+		"htlAvgRating": 3.6,
+		"userReviewsCount": 314,
+		"taUserRating": 3.5,
+		"taReviewCount": "202",
+		"featured": "Y",
+		"isFastSelling": false,
+		"starRating": {
+			"name": "Three",
+			"value": 3
+		},
+		"address": {
+			"area": ["Taj Mahal", "Fatehabad Road"],
+			"city": "Agra",
+			"line1": "Fatehabad road",
+			"line2": "Walking Distance From Taj Mahal",
+			"state": "Uttar Pradesh"
+		},
+		"geoLocation": {
+			"distanceMeter": [],
+			"latitude": "27.158328",
+			"longitude": "78.045235"
+		},
+		"punchline": "Taj Mahal - Very Close, 10 min drive from railway station, walking distance from KFC \u0026 SubWay and ATM.  Hotel offers a business centre, Wi-Fi access \u0026 room service.",
+		"isFreeWifiAvail": true,
+		"hotelAmenitiesSet": [5, 6],
+		"isPAHAvailable": false,
+		"displayFare": {
+			"availStatus": "B",
+			"slashedPrice": {
+				"value": 1199.0,
+				"maxFraction": 0,
+				"currencyCode": {
+					"id": "INR",
+					"value": ":Indian Rupee ",
+					"conversionRate": 1.0,
+					"currencySymbol": ""
+				},
+				"averagePriceNoTax": 1199.0,
+				"averagePriceWithTax": 1199.0,
+				"sellingPriceNoTax": 3597.0,
+				"sellingPriceWithTax": 3597.0
+			},
+			"lowestNetPayableAmountDTO": {
+				"value": 3597.0,
+				"maxFraction": 0,
+				"currencyCode": {
+					"id": "INR",
+					"value": ":Indian Rupee ",
+					"conversionRate": 1.0,
+					"currencySymbol": ""
+				},
+				"averagePriceNoTax": 3597.0
+			},
+			"cheapestPercentage": 0.0,
+			"cheapestPercentageRatePlanCode": "",
+			"extraAdult": {
+				"value": 0.0
+			},
+			"fareText": "All Inclusive,Taxes Extra"
+		},
+		"promotions": {
+			"opaquePromotion": {
+				"isOpaqueAvailable": false,
+				"techShowOpaque": false
+			},
+			"promotionsCount": 0
+		},
+		"miscHotelMap": {
+			"hqhotelratingPercent": 61.6,
+			"image_avail": "Y",
+			"hotelurat": 3.6,
+			"hqhotelrating": 3.5,
+			"pahMessage": "No card detail required to secure booking",
+			"hoteluratPercent": 63.4,
+			"PAH_MODEL": "PAH1",
+			"eyeCatchingText": "Good"
+		},
+		"popularityScore": 15.0,
+		"freeCancellationText": "Free Cancellation",
+		"isSoldOut": false
+	}, {
+		"id": "200708231745428706",
+		"idContext": "",
+		"name": "Hotel Siddhartha",
+		"hotelShortName": {
+			"value": "Hotel Siddhartha",
+			"truncated": false
+		},
+		"propertyName": "Hotel",
+		"category": "VH",
+		"htlTagLines": ["Rated 4.2 by Family travelers", "Rated 4.6 on 5 for Location"],
+		"htlTags": [{
+			"tagType": "traveller_rating",
+			"tagTypeCode": "family",
+			"tagPriority": 1,
+			"rated": 4.2,
+			"tagText": "Rated 4.2 by Family travelers"
+		}, {
+			"tagType": "parameterWise_rating",
+			"tagTypeCode": "LOCATION",
+			"tagPriority": 1,
+			"rated": 4.6,
+			"tagText": "Rated 4.6 on 5 for Location"
+		}],
+		"promoted": false,
+		"couponAutoApply": true,
+		"mtkey": "dRQ%2FjPNanvcIae5Ns0CWJOyQfQoH3KZPsjuc2EImPnPCW6NHO6jZZGYWBowKqXnOPOVF18JJ4th0VAUBo6cuwuYDksGjmEyWXklkrtcJlQk87%2F3ztaTEHkDElCQrB4mJWS5e8uUS3Ipbu0q3CnZgn63D65vjPSntLcj8aLaZuMdCR1pFXHOSXIq0omCAA2FLW4ftMLPYSlBOApL0X7ormpHuT4A2bBZkv3VAiAJpi0m6fM8PYHuMqtipVQ%2FN5AEeO0x0viOe%2B%2FfBdw1r2ua3WjzTaJ4Fi8knsnYrKb3%2FxinNSkVhdRsRkIiWmiSw6MGKik5pnEEKgTL%2FzslRajalFRnRXJkDLRvv%2BtQyY%2Bcb3e6vH9nJeeylFnPTSyHCh6rQ16X2hN29iBaSQ2tm2K5gsUxN5njK8jWo6NHJ6LVLdVXLNv%2BiFaXIug%3D%3D",
+		"isAbsorptionApplied": false,
+		"islmdPresent": false,
+		"mainImgUrl": "//imghtlak.mmtcdn.com/mmtimgs/images/upload/HotelSiddhartha_1460365765742_Listing.jpg",
+		"htlAvgRating": 4.0,
+		"userReviewsCount": 189,
+		"taUserRating": 3.5,
+		"taReviewCount": "326",
+		"featured": "Y",
+		"isFastSelling": true,
+		"starRating": {
+			"name": "Two",
+			"value": 2
+		},
+		"address": {
+			"area": ["Taj Mahal", "Fatehabad Road", "West Gate", "East Agra"],
+			"city": "Agra",
+			"line1": "western gate, taj mahal",
+			"line2": "Walking Distance From Taj Mahal",
+			"state": "Uttar Pradesh"
+		},
+		"geoLocation": {
+			"distanceMeter": [],
+			"latitude": "27.170047",
+			"longitude": "78.040679"
+		},
+		"punchline": "At a short walk from Taj Mahal, the hotel features business center with internet access, currency exchange and luggage storage.",
+		"isFreeWifiAvail": true,
+		"hotelAmenitiesSet": [6],
+		"isPAHAvailable": false,
+		"displayFare": {
+			"availStatus": "B",
+			"slashedPrice": {
+				"value": 1250.0,
+				"maxFraction": 0,
+				"currencyCode": {
+					"id": "INR",
+					"value": ":Indian Rupee ",
+					"conversionRate": 1.0,
+					"currencySymbol": ""
+				},
+				"averagePriceNoTax": 1250.0,
+				"averagePriceWithTax": 1250.0,
+				"sellingPriceNoTax": 3750.0,
+				"sellingPriceWithTax": 3750.0
+			},
+			"lowestNetPayableAmountDTO": {
+				"value": 3750.0,
+				"maxFraction": 0,
+				"currencyCode": {
+					"id": "INR",
+					"value": ":Indian Rupee ",
+					"conversionRate": 1.0,
+					"currencySymbol": ""
+				},
+				"averagePriceNoTax": 3750.0
+			},
+			"cheapestPercentage": 0.0,
+			"cheapestPercentageRatePlanCode": "",
+			"extraAdult": {
+				"value": 0.0
+			},
+			"fareText": "All Inclusive,Taxes Extra"
+		},
+		"promotions": {
+			"opaquePromotion": {
+				"isOpaqueAvailable": false,
+				"techShowOpaque": false
+			},
+			"promotionsCount": 0
+		},
+		"miscHotelMap": {
+			"category": "BUDGET HOTELS,NEAR TAJ",
+			"hqhotelratingPercent": 72.2,
+			"image_avail": "N",
+			"hotelurat": 4.0,
+			"hqhotelrating": 4.1,
+			"pahMessage": "Reserve your booking without paying now",
+			"hoteluratPercent": 70.4,
+			"PAH_MODEL": "PAH2",
+			"eyeCatchingText": "Good"
+		},
+		"shortHotelUSP": "Just 1 km from Taj Mahal, this budget hotel is an ideal choice for tourists. Offers restaurant, garden and parking space.",
+		"popularityScore": 16.0,
+		"freeCancellationText": "Free Cancellation",
+		"isSoldOut": false
+	}, {
+		"id": "200701171157501278",
+		"idContext": "TRUST",
+		"name": "The Oberoi Amarvilas",
+		"hotelShortName": {
+			"value": "The Oberoi Amarvilas",
+			"truncated": false
+		},
+		"propertyName": "Hotel",
+		"htlTagLines": ["Rated 5.0 on 5 for Location"],
+		"htlTags": [{
+			"tagType": "parameterWise_rating",
+			"tagTypeCode": "LOCATION",
+			"tagPriority": 1,
+			"rated": 5.0,
+			"tagText": "Rated 5.0 on 5 for Location"
+		}],
+		"promoted": false,
+		"couponAutoApply": true,
+		"mtkey": "dRQ%2FjPNanvcTqwV0NxK0f01YBpEY2fRc8BbzItP4FSZONn5nY5ojJBSiii9lAtLDk8HDHvFyxlRMlON9z5CafXvGeCHLbqT92uKkfRvUqp0yU7gSYCGvud4TI68LDpyr3wkt7pHHn62ISgwKYRucLMkOnQwPtq21CpOM6huTvipqkvDNKXoYp7IOI6AozD41Mf%2BlZ8VlQl6fx5Z9BfLlUTBRLmeDO7UWwnIin1OHf9ark8SQZjN3mI6WVZLmnoJQSXDRah28r14ixUfnxUb1b3sqe64WfSidI4vfn%2BY0XDO3iagg5sbEmng5qeEsj20KVcAexqTW6bOtTBJ3Q%2BLRTNVfOVnqIGoU5hiCKHWnypxV9pEq4I%2BCTVZh6XmyY0GrenztjbeqFnJmD46E60otHAnsM5yJlKCZ8uiJec63Ky%2Bs%2BD2WrG7ofFU0vtDwVzPjjfjT6KK9y0rIPlqbcqBGzT0QGDjFIDzIFAq3a159KNnJOxVlUqkK5yNdOadsVH%2Fx2nje70GUAlg%3D",
+		"isAbsorptionApplied": false,
+		"islmdPresent": false,
+		"mainImgUrl": "//imghtlak.mmtcdn.com/mmtimgs/images/upload/TheOberoiAmarvilas_Facade_Listing.jpg",
+		"htlAvgRating": 4.8,
+		"userReviewsCount": 2,
+		"taUserRating": 5.0,
+		"taReviewCount": "2101",
+		"featured": "Y",
+		"isFastSelling": false,
+		"starRating": {
+			"name": "Five",
+			"value": 5
+		},
+		"address": {
+			"area": ["The Agra Fort", "Fatehabad Road", "NorthWest Agra"],
+			"city": "Agra",
+			"line1": "Taj East Gate Road",
+			"line2": "0.6 km from Taj Mahal",
+			"state": "Uttar Pradesh"
+		},
+		"geoLocation": {
+			"distanceMeter": [],
+			"latitude": "27.167792",
+			"longitude": "78.048928"
+		},
+		"punchline": "With all rooms overlooking the Taj Mahal (600 m away), The Oberoi Amarvilas offers facilities like conference rooms, spa, pool, restaurants, bar and internet.",
+		"isFreeWifiAvail": false,
+		"hotelAmenitiesSet": [5, 6, 7],
+		"isPAHAvailable": false,
+		"displayFare": {
+			"availStatus": "B",
+			"slashedPrice": {
+				"value": 34000.0,
+				"maxFraction": 0,
+				"currencyCode": {
+					"id": "INR",
+					"value": ":Indian Rupee ",
+					"conversionRate": 1.0,
+					"currencySymbol": ""
+				},
+				"averagePriceNoTax": 34000.0,
+				"averagePriceWithTax": 34000.0,
+				"sellingPriceNoTax": 102000.0,
+				"sellingPriceWithTax": 102000.0
+			},
+			"lowestNetPayableAmountDTO": {
+				"value": 116280.0,
+				"maxFraction": 0,
+				"currencyCode": {
+					"id": "INR",
+					"value": ":Indian Rupee ",
+					"conversionRate": 1.0,
+					"currencySymbol": ""
+				},
+				"averagePriceNoTax": 116280.0
+			},
+			"cheapestPercentage": 0.0,
+			"cheapestPercentageRatePlanCode": "",
+			"tax": {
+				"value": 14280.0
+			},
+			"extraAdult": {
+				"value": 0.0
+			},
+			"fareText": "All Inclusive"
+		},
+		"promotions": {
+			"opaquePromotion": {
+				"isOpaqueAvailable": false,
+				"techShowOpaque": false
+			},
+			"promotionsCount": 0
+		},
+		"miscHotelMap": {
+			"category": "NEAR TAJ",
+			"hqhotelratingPercent": 77.4,
+			"image_avail": "Y",
+			"hotelurat": 4.8,
+			"hqhotelrating": 4.4,
+			"hoteluratPercent": 84.5,
+			"eyeCatchingText": "Fabulous"
+		},
+		"popularityScore": 17.0,
+		"isSoldOut": false
+	}, {
+		"id": "201510291709105614",
+		"idContext": "",
+		"name": "Hotel Parador",
+		"hotelShortName": {
+			"value": "Hotel Parador",
+			"truncated": false
+		},
+		"propertyName": "Hotel",
+		"htlTagLines": ["Rated 4.9 by Family travelers", "Rated above 4 by 100% travelers", "Rated 4.9 on 5 for Location"],
+		"htlTags": [{
+			"tagType": "traveller_rating",
+			"tagTypeCode": "family",
+			"tagPriority": 1,
+			"rated": 4.9,
+			"tagText": "Rated 4.9 by Family travelers"
+		}, {
+			"tagType": "reviewer_rating",
+			"tagTypeCode": "reviewer_rating",
+			"tagPriority": 0,
+			"rated": 4.9,
+			"tagText": "Rated above 4 by 100% travelers"
+		}, {
+			"tagType": "parameterWise_rating",
+			"tagTypeCode": "LOCATION",
+			"tagPriority": 1,
+			"rated": 4.9,
+			"tagText": "Rated 4.9 on 5 for Location"
+		}],
+		"promoted": false,
+		"couponAutoApply": true,
+		"mtkey": "dRQ%2FjPNanvfTsVLueb97BjCdrYP3P9q2sJ3oeN4%2FL6pQS7%2FAeaWJRv6bx75yudVWTBtrOIEm0KaTy8kgUd8dswu3hWwegxB4Ulb%2FbmF%2FSQ%2FsZn3RpXpIulvBBNdI0S0VrpuYOkR0nPzEmHtVLfaPeoZkXDaJ7LbfpdTWn%2BthNnk5mVa8HhY7dQmeVTTkNJR%2FmC69xAds3i4Ku1AHpTm8KXLw%2Bv3bg8Z%2FkWSlW9g2UGjoyMs4A69hhLEfxs5D9TN%2Bd6RW2iLkqhXJ2UJY1lVNlfT4eWwdhM9tFSeSg4nlO24DpS6WbiLV4MhaZHFu%2Fq9hiu2Iyt%2B%2Fg%2Fwgj4%2BMWBT3XhbF4wApoK2Ft1xQ3XtCsMLtL35njIr0FwnGZUnsiZ74HV0Q8SN3yLxERGx9l9E8QtkGp5SkER%2BNZYJZh545NgrdcHNYZCbQL8tWdtCARNQijbfuLvrkVu6%2B%2BwkCB04eCTk%2FGrV3ZlJtCPjQHZLzJjU%3D",
+		"isAbsorptionApplied": false,
+		"islmdPresent": false,
+		"mainImgUrl": "//imghtlak.mmtcdn.com/mmtimgs/images/upload/HotelParador_1468663186545_Listing.jpg",
+		"htlAvgRating": 4.9,
+		"userReviewsCount": 18,
+		"taUserRating": 0.0,
+		"featured": "N",
+		"isFastSelling": false,
+		"starRating": {
+			"name": "Four",
+			"value": 4
+		},
+		"address": {
+			"area": ["Central Agra"],
+			"city": "Agra",
+			"line1": "3A-3B, Taj Nagri, Phase - 1",
+			"line2": "Taj Ganj,Fatehabad Road",
+			"state": "Agra"
+		},
+		"geoLocation": {
+			"distanceMeter": [],
+			"latitude": "27.159165",
+			"longitude": "78.055714"
+		},
+		"punchline": "4 star property with modern amenities and services like Wi-Fi access, restaurant, coffee shop, electronic safe and many more",
+		"isFreeWifiAvail": true,
+		"hotelAmenitiesSet": [6],
+		"isPAHAvailable": false,
+		"displayFare": {
+			"availStatus": "B",
+			"slashedPrice": {
+				"value": 1899.0,
+				"maxFraction": 0,
+				"currencyCode": {
+					"id": "INR",
+					"value": ":Indian Rupee ",
+					"conversionRate": 1.0,
+					"currencySymbol": ""
+				},
+				"averagePriceNoTax": 1899.0,
+				"averagePriceWithTax": 1899.0,
+				"sellingPriceNoTax": 5697.0,
+				"sellingPriceWithTax": 5697.0
+			},
+			"lowestNetPayableAmountDTO": {
+				"value": 6477.0,
+				"maxFraction": 0,
+				"currencyCode": {
+					"id": "INR",
+					"value": ":Indian Rupee ",
+					"conversionRate": 1.0,
+					"currencySymbol": ""
+				},
+				"averagePriceNoTax": 6477.0
+			},
+			"cheapestPercentage": 0.0,
+			"cheapestPercentageRatePlanCode": "",
+			"tax": {
+				"value": 780.0
+			},
+			"extraAdult": {
+				"value": 0.0
+			},
+			"fareText": "All Inclusive"
+		},
+		"promotions": {
+			"opaquePromotion": {
+				"isOpaqueAvailable": false,
+				"techShowOpaque": false
+			},
+			"promotionsCount": 0
+		},
+		"miscHotelMap": {
+			"hqhotelratingPercent": 81.0,
+			"image_avail": "N",
+			"hotelurat": 4.9,
+			"hqhotelrating": 4.6,
+			"hoteluratPercent": 86.2
+		},
+		"popularityScore": 19.0,
+		"freeCancellationText": "Free Cancellation",
+		"isSoldOut": false
+	}]
+}

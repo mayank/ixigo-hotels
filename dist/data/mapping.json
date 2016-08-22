@@ -1,0 +1,116 @@
+{
+	"data": [{
+		"name": "Make My Trip",
+		"API": "data/mmt.json",
+		"mapping": {
+			"results": {
+				"source": "hotelsList",
+				"format": {
+					"name": {
+						"source": "name"
+					},
+					"image": {
+						"source": "mainImgUrl"
+					},
+					"rating": {
+						"source": "htlAvgRating"
+					},
+					"users": {
+						"source": "userReviewsCount"
+					},
+					"place": {
+						"source": {
+							"address": "line1"
+						}
+					},
+					"latitude": {
+						"source": {
+							"geoLocation": "latitude"
+						}
+					},
+					"longitude": {
+						"source": {
+							"geoLocation": "longitude"
+						}
+					}
+				}
+			}
+		}
+	},{
+		"name": "Go Ibibo"
+		"API": "data/ibibo.json",
+		"mapping": {
+			"results": {
+				"source": "data",
+				"format": {
+					"name": {
+						"source": "hn"
+					},
+					"latitude": {
+						"source": "la"
+					},
+					"longitude": {
+						"source": "lo"
+					},
+					"image": {
+						"source": "t"
+					},
+					"place": {
+						"source": "l"
+					},
+					"rating": {
+						"source": "gr"
+					},
+					"users": {
+						"source": "grc"
+					}
+				}
+			}
+		}
+	},{
+		"name": "Expedia",
+		"API": "data/xpedia.json",
+		"mapping": {
+			"results": {
+				"source": "results",
+				"format": {
+					"name": {
+						"source": {
+							"retailHotelInfoModel": "hotelName"
+						}
+					},
+					"image": {
+						"source": {
+							"retailHotelInfoModel": "largeThumbnailURL"
+						}
+					},
+					"rating": {
+						"source": {
+							"retailHotelInfoModel": "hotelStarRating"
+						}
+					},
+					"users": {
+						"source": {
+							"retailHotelInfoModel": "reviewTotal"
+						}
+					},
+					"place": {
+						"source": {
+							"retailHotelInfoModel": "searchDestination"
+						}
+					},
+					"latitude": {
+						"source": {
+							"retailHotelInfoModel": "latitude"
+						}
+					},
+					"longitude": {
+						"source": {
+							"retailHotelInfoModel": "longitude"
+						}
+					}
+				}
+			}
+		}
+	}]
+}
