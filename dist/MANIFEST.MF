@@ -1,0 +1,2 @@
+Main-Class: org.ixigo.hotels.HotelListing
+Class-Path: lib/json-simple.jar
