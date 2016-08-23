@@ -4,7 +4,27 @@
 Matches similar hotels using GPS coordinates and levhensteins' distance in name of hotels.
 Sample data collected from Ibibo, Make my Trip, Expedia etc.
 
-### Instructions
+
+### Assumptions 
+* Data will be coming in JSON objects from different service providers
+* Collected Data from Make My Trip, Ibibo and Expedia websites
+* Checking if there are any common hotels exists in all the data.
+
+### Architecture <Class Diagram>
+
+![Class Diagram](/snap.png "Class Diagram")
+
+### How it works 
+
+1. There is a mapping file (mapping.json) that contains API url and recrusive mapping of specific fields that are required by Hotel Object.
+2. At first, **DataSourceReaderService** reads the data from mapping file and generates an object of **APIMap** which contains mapping and api urls.
+3. From **APIMap** we pass the URL to **APIDataService** which returns the API results containing hotel data.
+4. After this, **MappingFormatterService** formats the data using a recursive parser into the desired format from the mapping given in **APIMap**.
+5. This formatted maps are passed to **HotelGeneratorService** to create a hotel object.
+6. **Hotel** and **Address** object’s equal method is overriden as to ensure if the address are equal by a margin then the two addresses must be same. And *levensthein’s distance* is applied to check if any typo errors or single word changes are there.
+
+
+### How to Run
 
 1. Goto `dist` folder
 2. run 
@@ -18,22 +38,6 @@ Crystal Sarovar Premiere, Make My Trip matches with Crystal Sarovar Premiere, Go
 Clark's Shiraz, Make My Trip matches with Clark's Shiraz, Go Ibibo
 Hotel Mansingh Palace, Make My Trip matches with Hotel Mansingh Palace, Go Ibibo
 Hotel Mansingh Palace, Make My Trip matches with Hotel Mansingh Palace, Expedia
-Hotel Tara Palace, Make My Trip matches with Hotel Tara Palace, Expedia
-Hotel Alleviate, Make My Trip matches with Hotel Alleviate, Go Ibibo
-Ramada Plaza, Make My Trip matches with Ramada Plaza, Go Ibibo
-Howard Plaza The Fern, Make My Trip matches with Howard Plaza The Fern, Go Ibibo
-Hotel Love Kush, Make My Trip matches with Hotel Love Kush, Go Ibibo
-The Oberoi Amarvilas, Make My Trip matches with The Oberoi Amarvilas, Go Ibibo
-Crystal Sarovar Premiere, Go Ibibo matches with Crystal Sarovar Premiere, Make My Trip
-The Oberoi Amarvilas, Go Ibibo matches with The Oberoi Amarvilas, Make My Trip
-Ramada Plaza, Go Ibibo matches with Ramada Plaza, Make My Trip
-Howard Plaza The Fern Agra, Go Ibibo matches with Howard Plaza The Fern Agra, Make My Trip
-Hotel Amar, Go Ibibo matches with Hotel Amar, Expedia
-Mansingh Palace, Go Ibibo matches with Mansingh Palace, Make My Trip
-Mansingh Palace, Go Ibibo matches with Mansingh Palace, Expedia
-Hotel Clarks Shiraz, Go Ibibo matches with Hotel Clarks Shiraz, Make My Trip
-Hotel Love Kush, Go Ibibo matches with Hotel Love Kush, Make My Trip
-Taj villa, Go Ibibo matches with Taj villa, Expedia
 ....
 
 ```
