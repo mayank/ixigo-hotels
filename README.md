@@ -12,7 +12,7 @@ Sample data collected from Ibibo, Make my Trip, Expedia etc.
 
 ### Architecture <Class Diagram>
 
-![Class Diagram](/snap.png "Class Diagram")
+![Class Diagram](./snap.png "Class Diagram")
 
 ### How it works 
 
